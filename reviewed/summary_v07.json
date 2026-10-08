@@ -1,0 +1,9 @@
+{
+  "version": "v0.7",
+  "base": "v0.5",
+  "input_proposals": 3393,
+  "accepted_tentative": 2138,
+  "held": 1255,
+  "remaining_squares": 7316,
+  "notes": "Candidate annotation only, not a fully philologically verified corpus; v0.5 remains reference edition. Positions are 1-indexed codepoint indices."
+}
