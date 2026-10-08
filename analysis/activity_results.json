@@ -1,0 +1,584 @@
+{
+  "generated": "2026-10-08",
+  "method": "principal literary activity dynasty by author, not actual composition date",
+  "totalPoems": 412,
+  "changesFromPrior": {
+    "江淹": {
+      "to": "宋",
+      "confidence": "medium",
+      "reason": "Most surviving work is pre-Yongming; likely late Liu Song/early Qi; boundary uncertain."
+    },
+    "王僧孺": {
+      "to": "梁",
+      "confidence": "medium",
+      "reason": "Mature court-literary activity under Liang."
+    },
+    "丘迟": {
+      "to": "梁",
+      "confidence": "medium",
+      "reason": "Mature literary activity under Liang; Qi/Liang overlap."
+    },
+    "陶弘景": {
+      "to": "梁",
+      "confidence": "low",
+      "reason": "Qi-Liang activity; poetry dates uncertain, tentatively Liang."
+    },
+    "柳恽": {
+      "to": "梁",
+      "confidence": "medium",
+      "reason": "Substantial mature literary activity under Liang."
+    },
+    "徐陵": {
+      "to": "梁",
+      "confidence": "medium",
+      "reason": "Liang court literary production is major; later Chen literary career also substantial."
+    }
+  },
+  "group": {
+    "宋": {
+      "poems": 180,
+      "lines5": 3102,
+      "lines7": 354,
+      "pair24binary": {
+        "n": 2145,
+        "observed": 1227,
+        "rate": 0.5720279720279721,
+        "expectedRate": 0.5012946028330644,
+        "excess": 0.07073336919490762,
+        "table": {
+          "PP": 377,
+          "PZ": 515,
+          "ZP": 712,
+          "ZZ": 541
+        }
+      },
+      "pair24four": {
+        "n": 1813,
+        "observed": 1325,
+        "rate": 0.7308328736900166,
+        "expectedRate": 0.6738950078324437,
+        "excess": 0.0569378658575728,
+        "table": {
+          "平平": 377,
+          "平上": 164,
+          "平去": 144,
+          "平入": 124,
+          "上平": 178,
+          "上上": 44,
+          "上去": 47,
+          "上入": 42,
+          "去平": 217,
+          "去上": 55,
+          "去去": 36,
+          "去入": 42,
+          "入平": 212,
+          "入上": 61,
+          "入去": 39,
+          "入入": 31
+        },
+        "withinZZ": {
+          "n": 397,
+          "different": 286,
+          "rate": 0.7204030226700252
+        }
+      },
+      "pair35binary": {
+        "n": 2139,
+        "observed": 1079,
+        "rate": 0.5044413277232351,
+        "expectedRate": 0.48630620671205366,
+        "excess": 0.01813512101118148,
+        "table": {
+          "PP": 333,
+          "PZ": 453,
+          "ZP": 626,
+          "ZZ": 727
+        }
+      },
+      "pair35four": {
+        "n": 1752,
+        "observed": 1285,
+        "rate": 0.7334474885844748,
+        "expectedRate": 0.7005832212631096,
+        "excess": 0.03286426732136528,
+        "table": {
+          "平平": 333,
+          "平上": 99,
+          "平去": 112,
+          "平入": 179,
+          "上平": 154,
+          "上上": 31,
+          "上去": 49,
+          "上入": 52,
+          "去平": 198,
+          "去上": 79,
+          "去去": 58,
+          "去入": 93,
+          "入平": 157,
+          "入上": 55,
+          "入去": 58,
+          "入入": 45
+        },
+        "withinZZ": {
+          "n": 520,
+          "different": 386,
+          "rate": 0.7423076923076923
+        }
+      },
+      "pair25binary": {
+        "n": 2297,
+        "observed": 1249,
+        "rate": 0.543752720940357,
+        "expectedRate": 0.4896843548085377,
+        "excess": 0.054068366131819284,
+        "table": {
+          "PP": 358,
+          "PZ": 606,
+          "ZP": 643,
+          "ZZ": 690
+        }
+      },
+      "triple246": {
+        "n": 200,
+        "alternating": 67,
+        "rate": 0.335
+      }
+    },
+    "齊": {
+      "poems": 61,
+      "lines5": 741,
+      "lines7": 41,
+      "pair24binary": {
+        "n": 479,
+        "observed": 349,
+        "rate": 0.7286012526096033,
+        "expectedRate": 0.5039944909584599,
+        "excess": 0.22460676165114343,
+        "table": {
+          "PP": 67,
+          "PZ": 153,
+          "ZP": 196,
+          "ZZ": 63
+        }
+      },
+      "pair24four": {
+        "n": 382,
+        "observed": 305,
+        "rate": 0.7984293193717278,
+        "expectedRate": 0.6458087771716784,
+        "excess": 0.1526205422000494,
+        "table": {
+          "平平": 67,
+          "平上": 48,
+          "平去": 41,
+          "平入": 26,
+          "上平": 51,
+          "上上": 3,
+          "上去": 4,
+          "上入": 3,
+          "去平": 57,
+          "去上": 5,
+          "去去": 6,
+          "去入": 8,
+          "入平": 52,
+          "入上": 5,
+          "入去": 5,
+          "入入": 1
+        },
+        "withinZZ": {
+          "n": 40,
+          "different": 30,
+          "rate": 0.75
+        }
+      },
+      "pair35binary": {
+        "n": 496,
+        "observed": 278,
+        "rate": 0.5604838709677419,
+        "expectedRate": 0.4858627081165453,
+        "excess": 0.07462116285119665,
+        "table": {
+          "PP": 67,
+          "PZ": 144,
+          "ZP": 134,
+          "ZZ": 151
+        }
+      },
+      "pair35four": {
+        "n": 390,
+        "observed": 316,
+        "rate": 0.8102564102564103,
+        "expectedRate": 0.6961604207758053,
+        "excess": 0.11409598948060497,
+        "table": {
+          "平平": 67,
+          "平上": 39,
+          "平去": 35,
+          "平入": 49,
+          "上平": 37,
+          "上上": 0,
+          "上去": 18,
+          "上入": 13,
+          "去平": 41,
+          "去上": 20,
+          "去去": 2,
+          "去入": 19,
+          "入平": 22,
+          "入上": 16,
+          "入去": 7,
+          "入入": 5
+        },
+        "withinZZ": {
+          "n": 100,
+          "different": 93,
+          "rate": 0.93
+        }
+      },
+      "pair25binary": {
+        "n": 521,
+        "observed": 332,
+        "rate": 0.6372360844529751,
+        "expectedRate": 0.49447946330878534,
+        "excess": 0.14275662114418972,
+        "table": {
+          "PP": 65,
+          "PZ": 177,
+          "ZP": 155,
+          "ZZ": 124
+        }
+      },
+      "triple246": {
+        "n": 21,
+        "alternating": 3,
+        "rate": 0.14285714285714285
+      }
+    },
+    "梁": {
+      "poems": 150,
+      "lines5": 1746,
+      "lines7": 342,
+      "pair24binary": {
+        "n": 1153,
+        "observed": 946,
+        "rate": 0.8204683434518647,
+        "expectedRate": 0.4998882962278726,
+        "excess": 0.3205800472239921,
+        "table": {
+          "PP": 114,
+          "PZ": 467,
+          "ZP": 479,
+          "ZZ": 93
+        }
+      },
+      "pair24four": {
+        "n": 941,
+        "observed": 808,
+        "rate": 0.8586609989373007,
+        "expectedRate": 0.6449726194012069,
+        "excess": 0.21368837953609385,
+        "table": {
+          "平平": 114,
+          "平上": 126,
+          "平去": 135,
+          "平入": 105,
+          "上平": 142,
+          "上上": 8,
+          "上去": 7,
+          "上入": 5,
+          "去平": 142,
+          "去上": 5,
+          "去去": 6,
+          "去入": 7,
+          "入平": 121,
+          "入上": 7,
+          "入去": 6,
+          "入入": 5
+        },
+        "withinZZ": {
+          "n": 56,
+          "different": 37,
+          "rate": 0.6607142857142857
+        }
+      },
+      "pair35binary": {
+        "n": 1181,
+        "observed": 763,
+        "rate": 0.6460626587637596,
+        "expectedRate": 0.49667075577823017,
+        "excess": 0.14939190298552937,
+        "table": {
+          "PP": 137,
+          "PZ": 328,
+          "ZP": 435,
+          "ZZ": 281
+        }
+      },
+      "pair35four": {
+        "n": 908,
+        "observed": 742,
+        "rate": 0.8171806167400881,
+        "expectedRate": 0.680779269925673,
+        "excess": 0.13640134681441518,
+        "table": {
+          "平平": 137,
+          "平上": 88,
+          "平去": 87,
+          "平入": 86,
+          "上平": 115,
+          "上上": 5,
+          "上去": 20,
+          "上入": 24,
+          "去平": 111,
+          "去上": 21,
+          "去去": 10,
+          "去入": 29,
+          "入平": 114,
+          "入上": 25,
+          "入去": 22,
+          "入入": 14
+        },
+        "withinZZ": {
+          "n": 170,
+          "different": 141,
+          "rate": 0.8294117647058824
+        }
+      },
+      "pair25binary": {
+        "n": 1254,
+        "observed": 822,
+        "rate": 0.6555023923444976,
+        "expectedRate": 0.4991186099219341,
+        "excess": 0.15638378242256354,
+        "table": {
+          "PP": 179,
+          "PZ": 437,
+          "ZP": 385,
+          "ZZ": 253
+        }
+      },
+      "triple246": {
+        "n": 185,
+        "alternating": 85,
+        "rate": 0.4594594594594595
+      }
+    },
+    "陳": {
+      "poems": 20,
+      "lines5": 156,
+      "lines7": 92,
+      "pair24binary": {
+        "n": 109,
+        "observed": 94,
+        "rate": 0.8623853211009175,
+        "expectedRate": 0.49962124400303004,
+        "excess": 0.36276407709788744,
+        "table": {
+          "PP": 5,
+          "PZ": 45,
+          "ZP": 49,
+          "ZZ": 10
+        }
+      },
+      "pair24four": {
+        "n": 85,
+        "observed": 77,
+        "rate": 0.9058823529411765,
+        "expectedRate": 0.6712802768166091,
+        "excess": 0.23460207612456743,
+        "table": {
+          "平平": 5,
+          "平上": 9,
+          "平去": 10,
+          "平入": 13,
+          "上平": 11,
+          "上上": 0,
+          "上去": 1,
+          "上入": 0,
+          "去平": 14,
+          "去上": 1,
+          "去去": 0,
+          "去入": 0,
+          "入平": 17,
+          "入上": 0,
+          "入去": 1,
+          "入入": 3
+        },
+        "withinZZ": {
+          "n": 6,
+          "different": 3,
+          "rate": 0.5
+        }
+      },
+      "pair35binary": {
+        "n": 101,
+        "observed": 73,
+        "rate": 0.7227722772277227,
+        "expectedRate": 0.48985393588863835,
+        "excess": 0.2329183413390844,
+        "table": {
+          "PP": 6,
+          "PZ": 33,
+          "ZP": 40,
+          "ZZ": 22
+        }
+      },
+      "pair35four": {
+        "n": 81,
+        "observed": 69,
+        "rate": 0.8518518518518519,
+        "expectedRate": 0.7107148300563938,
+        "excess": 0.14113702179545803,
+        "table": {
+          "平平": 6,
+          "平上": 9,
+          "平去": 8,
+          "平入": 12,
+          "上平": 11,
+          "上上": 2,
+          "上去": 0,
+          "上入": 1,
+          "去平": 5,
+          "去上": 6,
+          "去去": 3,
+          "去入": 3,
+          "入平": 12,
+          "入上": 2,
+          "入去": 0,
+          "入入": 1
+        },
+        "withinZZ": {
+          "n": 18,
+          "different": 12,
+          "rate": 0.6666666666666666
+        }
+      },
+      "pair25binary": {
+        "n": 118,
+        "observed": 76,
+        "rate": 0.6440677966101694,
+        "expectedRate": 0.4965527147371445,
+        "excess": 0.14751508187302498,
+        "table": {
+          "PP": 16,
+          "PZ": 37,
+          "ZP": 39,
+          "ZZ": 26
+        }
+      },
+      "triple246": {
+        "n": 43,
+        "alternating": 24,
+        "rate": 0.5581395348837209
+      }
+    },
+    "未定": {
+      "poems": 1,
+      "lines5": 10,
+      "lines7": 0,
+      "pair24binary": {
+        "n": 4,
+        "observed": 4,
+        "rate": 1,
+        "expectedRate": 0.5,
+        "excess": 0.5,
+        "table": {
+          "PP": 0,
+          "PZ": 2,
+          "ZP": 2,
+          "ZZ": 0
+        }
+      },
+      "pair24four": {
+        "n": 3,
+        "observed": 3,
+        "rate": 1,
+        "expectedRate": 0.7777777777777778,
+        "excess": 0.22222222222222218,
+        "table": {
+          "平平": 0,
+          "平上": 1,
+          "平去": 0,
+          "平入": 0,
+          "上平": 0,
+          "上上": 0,
+          "上去": 0,
+          "上入": 0,
+          "去平": 1,
+          "去上": 0,
+          "去去": 0,
+          "去入": 0,
+          "入平": 1,
+          "入上": 0,
+          "入去": 0,
+          "入入": 0
+        },
+        "withinZZ": {
+          "n": 0,
+          "different": 0,
+          "rate": null
+        }
+      },
+      "pair35binary": {
+        "n": 5,
+        "observed": 2,
+        "rate": 0.4,
+        "expectedRate": 0.4,
+        "excess": 0,
+        "table": {
+          "PP": 0,
+          "PZ": 0,
+          "ZP": 2,
+          "ZZ": 3
+        }
+      },
+      "pair35four": {
+        "n": 4,
+        "observed": 3,
+        "rate": 0.75,
+        "expectedRate": 0.8125,
+        "excess": -0.0625,
+        "table": {
+          "平平": 0,
+          "平上": 0,
+          "平去": 0,
+          "平入": 0,
+          "上平": 0,
+          "上上": 0,
+          "上去": 0,
+          "上入": 0,
+          "去平": 1,
+          "去上": 1,
+          "去去": 1,
+          "去入": 0,
+          "入平": 1,
+          "入上": 0,
+          "入去": 0,
+          "入入": 0
+        },
+        "withinZZ": {
+          "n": 2,
+          "different": 1,
+          "rate": 0.5
+        }
+      },
+      "pair25binary": {
+        "n": 5,
+        "observed": 3,
+        "rate": 0.6,
+        "expectedRate": 0.52,
+        "excess": 0.07999999999999999,
+        "table": {
+          "PP": 1,
+          "PZ": 1,
+          "ZP": 2,
+          "ZZ": 1
+        }
+      },
+      "triple246": {
+        "n": 0,
+        "alternating": 0,
+        "rate": null
+      }
+    }
+  }
+}
