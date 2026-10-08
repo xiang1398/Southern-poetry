@@ -155,7 +155,14 @@
     "https://zdic.net/hans/堰",
     "https://zdic.net/hans/磷",
     "https://zdic.net/hans/蠡",
-    "https://zdic.net/hans/生"
+    "https://zdic.net/hans/生",
+    "https://dict.variants.moe.edu.tw/dictView.jsp?ID=-846&la=1",
+    "https://www.zdic.net/hant/㪅",
+    "https://www.zdic.net/hant/便",
+    "https://www.zdic.net/hant/卷",
+    "https://www.zdic.net/hant/載",
+    "https://zh.wikisource.org/wiki/康熙字典/刀部/六畫",
+    "https://zh.wikisource.org/wiki/康熙字典/工部/二畫"
   ],
   "source_corpus": {
     "repository": "xiang1398/Southern-poetry",

@@ -8027,17 +8027,17 @@
       "offset": 4,
       "char": "载",
       "context": "东都已俶载",
-      "tone": "□",
+      "tone": "去",
       "pingze": "仄",
       "possible_tones": [
         "上",
         "去"
       ],
-      "method": "unresolved",
-      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 上 作亥切 年也出方言又音再 / 去 作代切 年也事也則也乘也始也盟辭也又姓風俗通云姬姓之後作代切又材代切六 / 去 昨代切 運也昨代切七",
+      "method": "context_exact",
+      "reason": "시작 俶載·助辭·운반·기록의 載. 廣韻 作代切 始也/則也/乘也/事也 및 昨代切 運也, 康熙字典의 記載/滿 풀이와 대응. 年載는 上去 모두 가능하여 제외.",
       "initial_tone": "□",
       "initial_pingze": "仄",
-      "status": "held"
+      "status": "resolved"
     },
     {
       "poem_id": "7b5879332769d0d3c47cae249eea6653",
@@ -8571,17 +8571,17 @@
       "offset": 198,
       "char": "载",
       "context": "载途演其楙",
-      "tone": "□",
+      "tone": "去",
       "pingze": "仄",
       "possible_tones": [
         "上",
         "去"
       ],
-      "method": "unresolved",
-      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 上 作亥切 年也出方言又音再 / 去 作代切 年也事也則也乘也始也盟辭也又姓風俗通云姬姓之後作代切又材代切六 / 去 昨代切 運也昨代切七",
+      "method": "context_exact",
+      "reason": "시작 俶載·助辭·운반·기록의 載. 廣韻 作代切 始也/則也/乘也/事也 및 昨代切 運也, 康熙字典의 記載/滿 풀이와 대응. 年載는 上去 모두 가능하여 제외.",
       "initial_tone": "□",
       "initial_pingze": "仄",
-      "status": "held"
+      "status": "resolved"
     },
     {
       "poem_id": "7b58793334fd51776f2681bcbac66383",
@@ -8770,17 +8770,17 @@
       "offset": 1,
       "char": "载",
       "context": "并载游邺京",
-      "tone": "□",
+      "tone": "去",
       "pingze": "仄",
       "possible_tones": [
         "上",
         "去"
       ],
-      "method": "unresolved",
-      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 上 作亥切 年也出方言又音再 / 去 作代切 年也事也則也乘也始也盟辭也又姓風俗通云姬姓之後作代切又材代切六 / 去 昨代切 運也昨代切七",
+      "method": "context_exact",
+      "reason": "시작 俶載·助辭·운반·기록의 載. 廣韻 作代切 始也/則也/乘也/事也 및 昨代切 運也, 康熙字典의 記載/滿 풀이와 대응. 年載는 上去 모두 가능하여 제외.",
       "initial_tone": "□",
       "initial_pingze": "仄",
-      "status": "held"
+      "status": "resolved"
     },
     {
       "poem_id": "7b587933367d4562d458345382f3b4ad",
@@ -9316,17 +9316,17 @@
       "offset": 2,
       "char": "载",
       "context": "宿心载违徒昔言",
-      "tone": "□",
+      "tone": "去",
       "pingze": "仄",
       "possible_tones": [
         "上",
         "去"
       ],
-      "method": "unresolved",
-      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 上 作亥切 年也出方言又音再 / 去 作代切 年也事也則也乘也始也盟辭也又姓風俗通云姬姓之後作代切又材代切六 / 去 昨代切 運也昨代切七",
+      "method": "context_exact",
+      "reason": "시작 俶載·助辭·운반·기록의 載. 廣韻 作代切 始也/則也/乘也/事也 및 昨代切 運也, 康熙字典의 記載/滿 풀이와 대응. 年載는 上去 모두 가능하여 제외.",
       "initial_tone": "□",
       "initial_pingze": "仄",
-      "status": "held"
+      "status": "resolved"
     },
     {
       "poem_id": "7b587933367d45629359068e90be0678",
@@ -9462,17 +9462,17 @@
       "offset": 5,
       "char": "载",
       "context": "载美典经",
-      "tone": "□",
+      "tone": "去",
       "pingze": "仄",
       "possible_tones": [
         "上",
         "去"
       ],
-      "method": "unresolved",
-      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 上 作亥切 年也出方言又音再 / 去 作代切 年也事也則也乘也始也盟辭也又姓風俗通云姬姓之後作代切又材代切六 / 去 昨代切 運也昨代切七",
+      "method": "context_exact",
+      "reason": "시작 俶載·助辭·운반·기록의 載. 廣韻 作代切 始也/則也/乘也/事也 및 昨代切 運也, 康熙字典의 記載/滿 풀이와 대응. 年載는 上去 모두 가능하여 제외.",
       "initial_tone": "□",
       "initial_pingze": "仄",
-      "status": "held"
+      "status": "resolved"
     },
     {
       "poem_id": "7b587933367d456297418b40f02b85f7",
@@ -9570,17 +9570,17 @@
       "offset": 7,
       "char": "载",
       "context": "矜恤载怀",
-      "tone": "□",
+      "tone": "去",
       "pingze": "仄",
       "possible_tones": [
         "上",
         "去"
       ],
-      "method": "unresolved",
-      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 上 作亥切 年也出方言又音再 / 去 作代切 年也事也則也乘也始也盟辭也又姓風俗通云姬姓之後作代切又材代切六 / 去 昨代切 運也昨代切七",
+      "method": "context_exact",
+      "reason": "시작 俶載·助辭·운반·기록의 載. 廣韻 作代切 始也/則也/乘也/事也 및 昨代切 運也, 康熙字典의 記載/滿 풀이와 대응. 年載는 上去 모두 가능하여 제외.",
       "initial_tone": "□",
       "initial_pingze": "仄",
-      "status": "held"
+      "status": "resolved"
     },
     {
       "poem_id": "7b587933367d4562c9876acd8d684b8d",
@@ -11450,17 +11450,17 @@
       "offset": 289,
       "char": "载",
       "context": "家已衰而载昌",
-      "tone": "□",
+      "tone": "去",
       "pingze": "仄",
       "possible_tones": [
         "上",
         "去"
       ],
-      "method": "unresolved",
-      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 上 作亥切 年也出方言又音再 / 去 作代切 年也事也則也乘也始也盟辭也又姓風俗通云姬姓之後作代切又材代切六 / 去 昨代切 運也昨代切七",
+      "method": "context_exact",
+      "reason": "시작 俶載·助辭·운반·기록의 載. 廣韻 作代切 始也/則也/乘也/事也 및 昨代切 運也, 康熙字典의 記載/滿 풀이와 대응. 年載는 上去 모두 가능하여 제외.",
       "initial_tone": "□",
       "initial_pingze": "仄",
-      "status": "held"
+      "status": "resolved"
     },
     {
       "poem_id": "7b5879338b029cfe6fc2b037097046ba",
@@ -15312,7 +15312,7 @@
     }
   ],
   "outcomes": {
-    "held": 288,
-    "resolved": 141
+    "held": 281,
+    "resolved": 148
   }
 }
