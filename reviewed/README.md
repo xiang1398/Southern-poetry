@@ -11,9 +11,9 @@
 압운으로 정한 성조는 韻目이 같다는 조건을 사용한 잠정 판단입니다. 通押·換韻·시구 분절 오류·문맥 異讀을 고려하면 확정이 번복될 수 있으므로 `resolutions.json`의 각 판단을 검토할 수 있도록 했습니다. 平仄 통계를 검증하는 데 평측 대립을 기준으로 독음을 고르지 않았습니다.
 
 - `southern_poetry_reviewed.txt`: 원문 바로 아래 교감 성조 표기
-- `southern_poetry_reviewed.json`: 작품별 JSON
 - `resolutions.json`: 기존 □에서 추가 판정한 전수 위치·판정 규칙·근거
-- `review_queue.json`: 아직 □인 모든 토큰과 《廣韻》 독음 후보·간단한 釋義
 - `summary.json`: 방법과 집계
 
 《廣韻》 데이터: [untunt/QYS4MCPDict](https://github.com/untunt/QYS4MCPDict), `all_chars.tsv`, `all_rimes.tsv`.
+
+현재 확인 가능한 완성본은 TXT와 판정 이력 JSON입니다. 대용량 구조화 JSON 및 미확정 전수 검토표는 업로드 검증이 완료되지 않아 배포 목록에서 제외했습니다. 통계는 `summary.json`에 있습니다.
