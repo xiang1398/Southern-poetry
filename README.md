@@ -34,3 +34,7 @@ Current counts: 412 included, 31 review, 38 excluded; 52 included authors.
 **[한국어 분석 보고서](analysis/RESULTS_KO.md)** · [원자료를 재현한 시구별 표](analysis/verse_lines.tsv) · [집계 JSON](analysis/results.json) · [평측/사성 모형 비교](analysis/model_comparison.json) · [민감도 분석](analysis/robustness.json) · [모형 선택 bootstrap](analysis/model_bootstrap.json) · [재현용 Python](analysis/reproduce.py).
 
 The data support a marked rise in second-vs-fourth-position P/Z opposition from Song-author cohorts to Qi, Liang, and Chen author cohorts. Four-tone dissimilation fits the strict Song subset modestly better; P/Z binary fits Qi and later subsets more convincingly. **This is provisional evidence, not a directly dated history of poem composition or evidence of conscious metrical doctrine.**
+
+## Activity-period regrouping (2026-10-08)
+
+For an alternative **principal literary activity period** grouping (not poem-level composition dating), see [Korean results](analysis/ACTIVITY_RESULTS_KO.md), [updated statistics](analysis/activity_results.json), [author attribution with confidence notes](analysis/activity_author_cohorts.json), and [line-level reclassified data](analysis/activity_verse_lines.tsv). The previous grouping remains available for comparison. 江淹 is a particularly influential borderline Song/Qi reassignment and must be treated as tentative.
