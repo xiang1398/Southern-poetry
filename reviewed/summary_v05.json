@@ -1,0 +1,16 @@
+{
+  "version": "v0.5",
+  "date": "2026-10-08",
+  "added_decisions": 55,
+  "added_character_types": 42,
+  "previous_squares": 9510,
+  "remaining_squares": 9455,
+  "unresolved_types": 726,
+  "variant_review_types": 319,
+  "notes": [
+    "Direct simplified-traditional and Japanese variant candidates checked against original QYS character entries.",
+    "Do not collapse semantic distinctions among one-to-many traditional characters.",
+    "Only previously square-marked positions changed; source lines preserved.",
+    "High-frequency multiple tone characters remain unresolved pending context and rhyme review."
+  ]
+}
