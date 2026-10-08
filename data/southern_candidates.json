@@ -1189,11 +1189,12 @@
       },
       {
         "content_index": 8,
-        "four_tones": "入平上上上，平去□平平。",
-        "pingze": "仄平仄仄仄，平仄□平平。",
+        "four_tones": "入平上上上，平去去平平。",
+        "pingze": "仄平仄仄仄，平仄仄平平。",
         "excluded_spans": [],
         "general_reading_offsets": [
-          2
+          2,
+          8
         ]
       },
       {
@@ -12268,11 +12269,12 @@
     "tone_annotations": [
       {
         "content_index": 0,
-        "four_tones": "平去入平去，去平入□平。",
-        "pingze": "平仄仄平仄，仄平仄□平。",
+        "four_tones": "平去入平去，去平入上平。",
+        "pingze": "平仄仄平仄，仄平仄仄平。",
         "excluded_spans": [],
         "general_reading_offsets": [
-          6
+          6,
+          9
         ]
       },
       {
@@ -17698,9 +17700,12 @@
       },
       {
         "content_index": 7,
-        "four_tones": "去□平入平，去平平去入。",
-        "pingze": "仄□平仄平，仄平平仄仄。",
-        "excluded_spans": []
+        "four_tones": "去去平入平，去平平去入。",
+        "pingze": "仄仄平仄平，仄平平仄仄。",
+        "excluded_spans": [],
+        "general_reading_offsets": [
+          1
+        ]
       },
       {
         "content_index": 8,

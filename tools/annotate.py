@@ -120,12 +120,14 @@ def apply_general_defaults(corpus, lex, supplements, pending, decisions, counts)
             continue
         override = next((r for r in policy['overrides'] if r['char']==initial['char'] and r['context']==initial['context']), None)
         selected = {**profile, **(override or {})}
-        entries = lex.get(initial['char'],{}).get('entries',[]) + supplements.get(initial['char'],{}).get('entries',[])
+        entries = lex.get(initial['char'],{}).get('entries',[]) + supplements.get(initial['char'],{}).get('entries',[]) + policy.get('default_supplements',{}).get(initial['char'],[])
         support = [e for e in entries if e['tone']==selected['tone'] and e['fanqie']==selected['fanqie']]
         assert support, (initial,selected)
         row = {**initial, 'tone':selected['tone'], 'pingze':'平' if selected['tone']=='平' else '仄',
                'method':'general_default', 'status':'provisional_general', 'reason':selected['reason'],
                'previous_tone':initial['tone'], 'previous_pingze':initial['pingze'],
+               'collation_required':selected.get('collation_required',False),
+               'possible_tones':[t for t in ORDER if t in set(initial['possible_tones']) | {e['tone'] for e in entries}],
                'supporting_entries':[{'head':e.get('head',initial['char']),'tone':e['tone'],'fanqie':e['fanqie'],'source':e['source'],'id':e.get('id')} for e in support]}
         annotation = poems[row['poem_id']]['tone_annotations'][row['content_index']]
         for field,value in [('four_tones',row['tone']),('pingze',row['pingze'])]:

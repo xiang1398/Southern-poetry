@@ -6,24 +6,20 @@
     "source_lacunae": 12,
     "verse_characters": 39736,
     "single_reading": 27161,
-    "four_tone_unresolved": 3,
-    "pingze_unresolved": 3,
+    "four_tone_unresolved": 0,
+    "pingze_unresolved": 0,
     "single_tone": 2799,
     "context_semantic": 5295,
     "context_exact": 1909,
-    "unresolved": 3,
+    "unresolved": 0,
     "context_phrase": 300,
     "rhyme_local": 211,
     "evidence_based_read": 37675,
     "before_general_unresolved": 2061,
-    "general_default": 2058,
-    "filled_four_tones": 39733,
+    "general_default": 2061,
+    "filled_four_tones": 39736,
     "records": 412
   },
-  "unresolved_by_character": {
-    "嗳": 1,
-    "垌": 1,
-    "熳": 1
-  },
+  "unresolved_by_character": {},
   "note": "廣韻系 분류를 기준으로 한 성조 복원. general_default는 사용자 요청에 따른 일반 독음 잠정값이며 문맥 확정과 구분한다. 평측 틀로 독음을 고르지 않으며 잠정값은 운각 판독의 근거로 쓰지 않는다. 남조 당시 개별 실현음 자체를 확정하는 자료가 아니다. 역사적 검토 JSON의 결과는 일반 독음 적용 전 단계이다."
 }
