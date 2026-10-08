@@ -4,9 +4,9 @@ A preliminary, provenance-preserving subset of [snowtraces/poetry-source](https:
 
 **Status: preliminary author-based selection, NOT a critically established edition or final attribution.** The source groups Northern, Southern and Sui poets under 南北朝; its dynasty field alone is not usable for Southern attribution.
 
-- `data/southern_candidates.json`: 381 candidate works, 49 authors; require poem-level verification.
-- `data/review_required.json`: 59 works: 庾信, 蕭詧, 蘇小小, 陸凱, anonymous. For transregional poets, author origin is not equivalent to place/date of composition.
-- `data/excluded.json`: 41 works, provisionally excluded by author attribution (Northern or Sui); retain for audit.
+- `data/southern_candidates.json`: 412 included works, 52 authors; require poem-level verification.
+- `data/review_required.json`: 31 works: 蘇小小, 陸凱, anonymous.
+- `data/excluded.json`: 38 works, provisionally excluded by author attribution (Northern or Sui); retain for audit.
 - `source/original_northern_southern.json`: unmodified upstream snapshot (481 works).
 
 Original fields and IDs are retained. Extra `source_repository`, `source_path`, `selection_status` fields document provenance and selection.
@@ -27,4 +27,10 @@ Test whether 上、去、入 behave as a common non-平 metrical class in Southe
 
 Include poets who began composing in Southern Dynasties literary circles even when later active in Northern courts. 庾信, 蕭詧, 王褒 are now included. Southern training does NOT imply that every poem was composed in the South. Cross-regional records have `southern_training: true`, `cross_regional_author: true`, and `composition_period: undetermined`. Date individual poems before comparing Southern-period vs Northern-period tonal patterns.
 
-Updated counts: 412 candidates, 31 review, 38 excluded; 52 candidate authors. Earlier counts above are historical initial-screening figures.
+Current counts: 412 included, 31 review, 38 excluded; 52 included authors.
+
+## Exploratory tonal analysis (2026-10-08)
+
+**[한국어 분석 보고서](analysis/RESULTS_KO.md)** · [원자료를 재현한 시구별 표](analysis/verse_lines.tsv) · [집계 JSON](analysis/results.json) · [평측/사성 모형 비교](analysis/model_comparison.json) · [민감도 분석](analysis/robustness.json) · [모형 선택 bootstrap](analysis/model_bootstrap.json) · [재현용 Python](analysis/reproduce.py).
+
+The data support a marked rise in second-vs-fourth-position P/Z opposition from Song-author cohorts to Qi, Liang, and Chen author cohorts. Four-tone dissimilation fits the strict Song subset modestly better; P/Z binary fits Qi and later subsets more convincingly. **This is provisional evidence, not a directly dated history of poem composition or evidence of conscious metrical doctrine.**
