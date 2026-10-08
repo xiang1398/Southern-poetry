@@ -1,0 +1,131 @@
+{
+  "accessed": "2026-10-08",
+  "guangyun": [
+    {
+      "repository": "nk2028/tshet-uinh-data",
+      "path": "韻書/廣韻.csv",
+      "blob_sha": "1b3c5c7f36504a5f187f00f8c2f8e8ee2e3b515e",
+      "url": "https://github.com/nk2028/tshet-uinh-data/blob/main/韻書/廣韻.csv",
+      "license": "CC0",
+      "note": "Primary rime-dictionary transcription; character heads with editorial variants are parsed explicitly."
+    },
+    {
+      "repository": "untunt/QYS4MCPDict",
+      "path": "all_chars.tsv",
+      "blob_sha": "6d21d52d01d15e9ea9f49496415751d8b221262d",
+      "url": "https://github.com/untunt/QYS4MCPDict/blob/main/all_chars.tsv",
+      "note": "Second electronic transcription of the same Guangyun, not an independent historical witness."
+    },
+    {
+      "repository": "untunt/QYS4MCPDict",
+      "path": "all_rimes.tsv",
+      "blob_sha": "3d7498bf3a159b737b50a26f517783d1cb1f658f",
+      "url": "https://github.com/untunt/QYS4MCPDict/blob/main/all_rimes.tsv",
+      "note": "Second electronic transcription of the same Guangyun, not an independent historical witness."
+    }
+  ],
+  "jiyun": [
+    {
+      "repository": "kanripo/KR1j0057",
+      "path": "KR1j0057_001.txt",
+      "blob_sha": "b849457ea6fae827b6b6b3adc7baa3527ccc0926",
+      "url": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_001.txt",
+      "edition": "四庫全書 WYG",
+      "note": "Searched all ten volumes; only explicitly checked headwords and glosses are admitted as supplements."
+    },
+    {
+      "repository": "kanripo/KR1j0057",
+      "path": "KR1j0057_002.txt",
+      "blob_sha": "c94070ed7aa01bd51a14c89b3afd67a9e5f7d896",
+      "url": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_002.txt",
+      "edition": "四庫全書 WYG",
+      "note": "Searched all ten volumes; only explicitly checked headwords and glosses are admitted as supplements."
+    },
+    {
+      "repository": "kanripo/KR1j0057",
+      "path": "KR1j0057_003.txt",
+      "blob_sha": "d82342ee0abc2882cbd5658b8aa76a763596de75",
+      "url": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_003.txt",
+      "edition": "四庫全書 WYG",
+      "note": "Searched all ten volumes; only explicitly checked headwords and glosses are admitted as supplements."
+    },
+    {
+      "repository": "kanripo/KR1j0057",
+      "path": "KR1j0057_004.txt",
+      "blob_sha": "bbbb28575e3b3909ae3be0237843870522a99c51",
+      "url": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_004.txt",
+      "edition": "四庫全書 WYG",
+      "note": "Searched all ten volumes; only explicitly checked headwords and glosses are admitted as supplements."
+    },
+    {
+      "repository": "kanripo/KR1j0057",
+      "path": "KR1j0057_005.txt",
+      "blob_sha": "4d3426673065312b7351292cf375dac6e0b60d58",
+      "url": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_005.txt",
+      "edition": "四庫全書 WYG",
+      "note": "Searched all ten volumes; only explicitly checked headwords and glosses are admitted as supplements."
+    },
+    {
+      "repository": "kanripo/KR1j0057",
+      "path": "KR1j0057_006.txt",
+      "blob_sha": "b23d257333b62cf7f7b0cb6f15c76d69b30a0c0a",
+      "url": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_006.txt",
+      "edition": "四庫全書 WYG",
+      "note": "Searched all ten volumes; only explicitly checked headwords and glosses are admitted as supplements."
+    },
+    {
+      "repository": "kanripo/KR1j0057",
+      "path": "KR1j0057_007.txt",
+      "blob_sha": "703ed67d0035c4742294c2c0636570dc2dd67d2c",
+      "url": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_007.txt",
+      "edition": "四庫全書 WYG",
+      "note": "Searched all ten volumes; only explicitly checked headwords and glosses are admitted as supplements."
+    },
+    {
+      "repository": "kanripo/KR1j0057",
+      "path": "KR1j0057_008.txt",
+      "blob_sha": "c127521156b1ed15bb85d81b4137afe26a7c0865",
+      "url": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_008.txt",
+      "edition": "四庫全書 WYG",
+      "note": "Searched all ten volumes; only explicitly checked headwords and glosses are admitted as supplements."
+    },
+    {
+      "repository": "kanripo/KR1j0057",
+      "path": "KR1j0057_009.txt",
+      "blob_sha": "dac5e075b5268b53c0e7102e06b48e56a219b17a",
+      "url": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_009.txt",
+      "edition": "四庫全書 WYG",
+      "note": "Searched all ten volumes; only explicitly checked headwords and glosses are admitted as supplements."
+    },
+    {
+      "repository": "kanripo/KR1j0057",
+      "path": "KR1j0057_010.txt",
+      "blob_sha": "b2a0cce545c9307c8e2f502b7944ecbaaeb7cbfb",
+      "url": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_010.txt",
+      "edition": "四庫全書 WYG",
+      "note": "Searched all ten volumes; only explicitly checked headwords and glosses are admitted as supplements."
+    }
+  ],
+  "orthography": {
+    "repository": "BYVoid/OpenCC",
+    "path": "data/dictionary/STCharacters.txt",
+    "url": "https://github.com/BYVoid/OpenCC/blob/master/data/dictionary/STCharacters.txt",
+    "note": "Lookup candidates only; no conversion of source content."
+  },
+  "cross_checks": [
+    "https://www.zdic.net/hant/倏",
+    "https://www.zdic.net/hant/魂",
+    "https://www.zdic.net/hant/間",
+    "https://www.zdic.net/hant/窗",
+    "https://www.zdic.net/hant/滮",
+    "https://www.zdic.net/hant/㵳",
+    "https://ytenx.org/zim?dzih=令&dzyen=1&jtdt=1&jtkb=1",
+    "https://ytenx.org/zim?dzih=不&dzyen=1&jtdt=1&jtkb=1"
+  ],
+  "source_corpus": {
+    "repository": "xiang1398/Southern-poetry",
+    "path": "data/southern_candidates.json",
+    "original_blob_sha": "5b31430dc8a5f05e7d89c5a2ee9ee44af610e7c7",
+    "original_fields_sha256": "21aa431c9075ced692c576b6ca8b8bb3617bb80c5338eab279086e6845b6634a"
+  }
+}

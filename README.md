@@ -13,7 +13,7 @@ Original fields and IDs are retained. Extra `source_repository`, `source_path`, 
 
 ## Scope and limitations
 
-The candidates are **not yet independently checked** against chronological sources, variant readings, poem-level dating, duplicate records, or completeness. In particular, do not treat this as all Southern Dynasties poetry. A second phase will add author/poem metadata (Liu Song, Southern Qi, Liang, Chen), composition location/date confidence, five/seven-character verse segmentation, and historically appropriate four-tone assignments with polyphonic-character uncertainty.
+The candidates are **not yet independently checked** against chronological sources, variant readings, poem-level dating, duplicate records, or completeness. In particular, do not treat this as all Southern Dynasties poetry. The corpus now includes four-tone and 平仄 annotations. Author/poem dating, duplicates and textual variants still require independent checking.
 
 ## Source attribution
 
@@ -29,12 +29,17 @@ Include poets who began composing in Southern Dynasties literary circles even wh
 
 Current counts: 412 included, 31 review, 38 excluded; 52 included authors.
 
-## Exploratory tonal analysis (2026-10-08)
+## 성조·평측 주석 (2026-10-08)
 
-**[한국어 분석 보고서](analysis/RESULTS_KO.md)** · [원자료를 재현한 시구별 표](analysis/verse_lines.tsv) · [집계 JSON](analysis/results.json) · [평측/사성 모형 비교](analysis/model_comparison.json) · [민감도 분석](analysis/robustness.json) · [모형 선택 bootstrap](analysis/model_bootstrap.json) · [재현용 Python](analysis/reproduce.py).
+- [원문 필드에 주석을 추가한 412개 레코드](data/southern_candidates.json)
+- [시구 아래 사성·평측을 표시한 TXT](data/southern_candidates_tones.txt)
+- [판독 기준과 재현 방법](docs/tone_annotation.md)
+- [사전 출처](data/phonology/sources.json) · [사전 항목 스냅샷](data/phonology/guangyun_lexicon.json)
+- [문맥 판독 규칙](data/phonology/reading_rules.json) · [개별 판독 기록](data/phonology/decisions.json)
+- [미확정 목록](data/phonology/unresolved.json) · [현재 집계](data/phonology/summary.json)
 
-The data support a marked rise in second-vs-fourth-position P/Z opposition from Song-author cohorts to Qi, Liang, and Chen author cohorts. Four-tone dissimilation fits the strict Song subset modestly better; P/Z binary fits Qi and later subsets more convincingly. **This is provisional evidence, not a directly dated history of poem composition or evidence of conscious metrical doctrine.**
+원문과 원본 ID를 유지하고 `tone_annotations`를 직접 추가했다. 이독이 하나인 글자부터 처리하고, 같은 성조의 다독자, 문맥에 따른 판독, 제한적인 국소 압운 판독을 구별했다. 《廣韻》 반절·석의와 고자·이체자를 대조하고, 《集韻》 전자 원문 및 외부 사전으로 보충했다.
 
-## Activity-period regrouping (2026-10-08)
+시구 본문 39,736자 중 사성 35,993자(90.58%), 평측 37,370자(94.05%)를 채웠다. 사성 미확정 3,743자, 평측 미확정 2,366자는 □로 남겼다. 본문 결자 12자와 소제목·설명 625자는 이 수량에서 제외한다. 412는 원본 레코드 수이며 묶음시 레코드도 포함한다.
 
-For an alternative **principal literary activity period** grouping (not poem-level composition dating), see [Korean results](analysis/ACTIVITY_RESULTS_KO.md), [updated statistics](analysis/activity_results.json), [author attribution with confidence notes](analysis/activity_author_cohorts.json), and [line-level reclassified data](analysis/activity_verse_lines.tsv). The previous grouping remains available for comparison. 江淹 is a particularly influential borderline Song/Qi reassignment and must be treated as tentative.
+기존 `analysis/`, `annotated/`, `reviewed/`의 성조 분석·중간본·통계는 최신 브랜치에서 삭제했다. 원본 시가 스냅샷과 선정 자료는 유지한다. 문맥 판독은 복원이며, □를 평측 배열에 맞춰 채우는 규칙은 없다.
