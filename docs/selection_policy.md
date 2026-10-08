@@ -17,3 +17,7 @@ This is a **provisional author-name filter**, not a definitive historical classi
 ## Next checks
 
 Validate every author's dates, distinguish place of composition from birthplace, resolve duplicate works, identify historical sources, and keep ambiguous works in the review queue rather than silently discarding them. Do not infer a tonal category from modern Mandarin pronunciation.
+
+## Revision: inclusion by Southern literary formation
+
+The initial review/exclusion of 庾信, 蕭詧 and 王褒 is superseded. All their works are included as candidates on the basis of their Southern literary formation. Composition period remains undetermined at poem level. Test continuity of prosodic practice rather than assuming it.
