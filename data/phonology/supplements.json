@@ -68,6 +68,36 @@
         "volume": 8,
         "url": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_008.txt",
         "verified_excerpt": "○愞偄懦䎠(奴卧切弱也或从人从需)(亦作䎠文十五)堧(沙土)䇔(唩䇔立皃)[田*耎]堧㽭壖(城下田一曰江滸或作堧㽭壖)稬糯(稲名)(或作糯)媠(方言姓媠豔美也)濡(水皃)挼(推也)"
+      },
+      {
+        "head": "壖",
+        "tone": "平",
+        "fanqie": "而宣",
+        "gloss": "城下田/游地",
+        "source": "集韻 Kanripo KR1j0057",
+        "url": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_003.txt",
+        "verified_excerpt": "○[田*耎]㽭瑌壖(而宣切説文城下田也一曰[田*耎]卻也一曰)(游地或作㽭瑌壖文十九)䙇袻(衣縫欇也一曰縁也或省)撋擩㨎捼(煩撋猶挼莎也或作擩㨎)(捼)瓀瑌(珉也或从耎)繎(絲難理曰絲勞)蠕(蟲行貌)犉(黄牛黒脣曰或作犉)㧫(博雅拄也)(鳥名博雅也)瞤(目動)",
+        "volume": 3
+      },
+      {
+        "head": "壖",
+        "tone": "去",
+        "fanqie": "儒轉",
+        "gloss": "城下田",
+        "source": "集韻 Kanripo KR1j0057",
+        "url": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_008.txt",
+        "verified_excerpt": "○[田*耎]堧壖(儒轉切城下田或从)(土亦作壖文七)緛(織也)(鳥名博雅雡也或从鳥)媆(好皃)",
+        "volume": 8
+      },
+      {
+        "head": "壖",
+        "tone": "去",
+        "fanqie": "奴卧",
+        "gloss": "城下田 一曰江滸",
+        "source": "集韻 Kanripo KR1j0057",
+        "url": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_008.txt",
+        "verified_excerpt": "○愞偄懦䎠(奴卧切弱也或从人从需)(亦作䎠文十五)堧(沙土)䇔(唩䇔立皃)[田*耎]堧㽭壖(城下田一曰江滸或作堧㽭壖)稬糯(稲名)(或作糯)媠(方言姓媠豔美也)濡(水皃)挼(推也)",
+        "volume": 8
       }
     ]
   },
@@ -158,6 +188,124 @@
         "volume": 7,
         "url": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_007.txt",
         "verified_excerpt": "○纇(盧對切説文絲節也文三十三)頪(説文難曉也一曰鮮白色从粉省)儽傫(垂皃或作傫)㔣(説文推也或从攴)攂(急擊鼓或从纍)礧壘礌雷檑(倉推石)(自高而下也或作壘礌雷檑)錑銇(平版具或从耒)耒(説文手耕曲木也从木推手古者垂作"
+      }
+    ]
+  },
+  "娼": {
+    "entries": [
+      {
+        "head": "娼",
+        "tone": "平",
+        "fanqie": "蚩良",
+        "gloss": "倡娼 樂也或从女",
+        "source": "集韻 Kanripo KR1j0057",
+        "url": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_003.txt",
+        "verified_excerpt": "○昌(蚩良切説文美)(言也一曰日光也引詩東方昌矣又州名亦姓籕作文十六)倡娼(樂也或从女)閶闛(説文天門)(也楚人名門曰閶闔或作闛)琩(琩玩蠻夷充耳)裮(博雅披裮不帶也或从巾)猖(猖狂也)菖(菖蒲艸名蓀也通作昌)鯧(鯧鯸魚名)(廣鳯皇屬)䅛(穅也)淐(水名)䗉(小嬴)",
+        "volume": 3
+      }
+    ]
+  },
+  "飓": {
+    "entries": [
+      {
+        "head": "飓",
+        "tone": "去",
+        "fanqie": "衢遇",
+        "gloss": "颶 越人謂具四方之風曰颶",
+        "source": "集韻 Kanripo KR1j0057",
+        "url": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_007.txt",
+        "verified_excerpt": "○懼<pb:KR1j0057_WYG_007-31b>瞿愳(衢遇切説文恐也或省古作愳文十)臞(瘦也)具(説文共置也从具省古以貝為貨亦)(姓)埧(堤塘也)(寒餅屬)㬬(姓也漢有㬬丘)颶(越人謂具四方之風曰颶)",
+        "volume": 7
+      }
+    ]
+  },
+  "赆": {
+    "entries": [
+      {
+        "head": "赆",
+        "tone": "去",
+        "fanqie": "徐刃",
+        "gloss": "賮贐進 説文㑹禮也",
+        "source": "集韻 Kanripo KR1j0057",
+        "url": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_007.txt",
+        "verified_excerpt": "○㶳燼(徐刃切説文火餘也一曰薪也或从)(盡文十)賮贐進(説文㑹禮也或作盡亦作進)濜(水名在襄陽)璶(説文石似玉者)藎(説文艸也一曰進也或从賮从㶳)",
+        "volume": 7
+      }
+    ]
+  },
+  "鶗": {
+    "entries": [
+      {
+        "head": "鶗",
+        "tone": "平",
+        "fanqie": "常支",
+        "gloss": "鶗鵳鷂也",
+        "source": "集韻 Kanripo KR1j0057",
+        "url": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_001.txt",
+        "verified_excerpt": "○匙㮛(常支切説文匕也或从木亦書作㔭文三十四)鍉(鑰也)鶗䲭(鶗鵳鷂也)(亦从氏)提&KR2878;(提提羣貌或从羽)㖷(鳥鳴)隄堤(博雅隄封都凡也或从土通作提)柢(字林)(碓衡一曰桃也)䈕(説文簧屬)(説文革也)芪蝭(説文芪母也一曰知母或作蝭)禔媞(説文安福)(也引易禔既平或从女通作提)禠(爾雅福也)忯(愛也一曰祇不",
+        "volume": 1
+      },
+      {
+        "head": "鶗",
+        "tone": "平",
+        "fanqie": "田黎",
+        "gloss": "鷤鳺子鳺也或作鶗",
+        "source": "集韻 Kanripo KR1j0057",
+        "url": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_002.txt",
+        "verified_excerpt": "○題(田黎切說文額也一曰署也文一百)(十一)(說文顯也或作)睼睇(迎視也或从弟)眱(小視也或作)嗁啼㖒㖷渧諦(說文號也或作啼㖒㖷渧諦通作謕)謕(方言謰謱拏也南楚謂之詀謕)詆呧(詆訶也或作呧)<pb:KR1j0057_WYG_002-21a>提(說文挈也)媞姼(媞媞安也一曰美好或作姼)折(折折安舒皃)禔(博雅福也)褆(說 … 或从弟)鴺鵜(鳥名說文鴺鶘汙澤也或从弟)鷤鶗(鳥名博雅鷤鳺子鳺也或作鶗)鶙(鳥名博鴉鶙眉鷂也)(通作鶗)騠(說文駃騠也孟康曰駿馬生七日而超其母)鍉(歃血器)鼶(鼶鼬鼠名或从帝)(壁方丈)",
+        "volume": 2
+      },
+      {
+        "head": "鶗",
+        "tone": "去",
+        "fanqie": "特計",
+        "gloss": "鶗鴂 鳥名 義同",
+        "source": "廣韻 cited in 康熙字典/漢典",
+        "url": "https://www.zdic.net/hant/鶗",
+        "verified_excerpt": "又廣韻特計切 韻會正韻大計切 音弟 義同"
+      }
+    ]
+  },
+  "蝴": {
+    "entries": [
+      {
+        "head": "蝴",
+        "tone": "平",
+        "fanqie": "洪吾",
+        "gloss": "蝴蝶本作胡",
+        "source": "正字通 cited in 康熙字典/漢典",
+        "url": "https://www.zdic.net/hant/蝴",
+        "verified_excerpt": "正字通 洪吾切 音胡 蝴蝶本作胡 詳蝶字註"
+      }
+    ]
+  },
+  "鑁": {
+    "entries": [
+      {
+        "head": "鑁",
+        "tone": "平",
+        "fanqie": "祖叢",
+        "gloss": "鍐의 이체; 金鍐 馬冠",
+        "source": "韻會 cited in 康熙字典/漢典",
+        "url": "https://www.zdic.net/hant/鍐",
+        "verified_excerpt": "韻會祖叢切 音㚇 馬冠; 異體字 鑁"
+      }
+    ]
+  },
+  "泥": {
+    "entries": [
+      {
+        "source": "集韻 Kanripo KR1j0057",
+        "head": "泥",
+        "tone": "上",
+        "fanqie": "乃禮",
+        "gloss": "露濃; 或省作泥",
+        "volume": 5,
+        "url": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_005.txt",
+        "verified_excerpt": "○禰祢(乃禮切説文親廟也亦姓或作祢文二十八) … &KR2089;泥(露濃謂之&KR2089;或省)",
+        "page": "WYG_005-40b",
+        "cross_check_url": "https://www.zdic.net/hans/泥",
+        "note": "康熙字典 인용 廣韻 奴禮切 泥泥露濃貌와 대조. 집운 상성 항목을 후보에 보충."
       }
     ]
   }

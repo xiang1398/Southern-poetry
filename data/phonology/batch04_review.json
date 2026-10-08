@@ -1,0 +1,2179 @@
+{
+  "review_id": "2026-10-08-batch04-2491",
+  "base_commit": "90c84a4",
+  "initial_pending_tokens": 53,
+  "scope_note": "미확정 2491곳에서 의미 대비가 분명한 시구를 선별 검토한 추가 판독. 사전 후보 내 문맥 판독이며 모든 잔여 위치의 독음 확정을 뜻하지 않음.",
+  "new_rules": [
+    {
+      "key": "陈|弃置勿复陈",
+      "tone": "平",
+      "reason": "진술·진열 또는 陳王·陳完 인명. 廣韻 直珍切 陳列張布姓; 直刃切는 자서의 同陣 軍伍行列也와 대조.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/陳"
+    },
+    {
+      "key": "陈|重陈长叹息",
+      "tone": "平",
+      "reason": "진술·진열 또는 陳王·陳完 인명. 廣韻 直珍切 陳列張布姓; 直刃切는 자서의 同陣 軍伍行列也와 대조.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/陳"
+    },
+    {
+      "key": "陈|诗人陈条柯",
+      "tone": "平",
+      "reason": "진술·진열 또는 陳王·陳完 인명. 廣韻 直珍切 陳列張布姓; 直刃切는 자서의 同陣 軍伍行列也와 대조.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/陳"
+    },
+    {
+      "key": "陈|陈王斗鸡道",
+      "tone": "平",
+      "reason": "진술·진열 또는 陳王·陳完 인명. 廣韻 直珍切 陳列張布姓; 直刃切는 자서의 同陣 軍伍行列也와 대조.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/陳"
+    },
+    {
+      "key": "陈|今似陈王叹",
+      "tone": "平",
+      "reason": "진술·진열 또는 陳王·陳完 인명. 廣韻 直珍切 陳列張布姓; 直刃切는 자서의 同陣 軍伍行列也와 대조.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/陳"
+    },
+    {
+      "key": "陈|陈觯发瓢壶",
+      "tone": "平",
+      "reason": "진술·진열 또는 陳王·陳完 인명. 廣韻 直珍切 陳列張布姓; 直刃切는 자서의 同陣 軍伍行列也와 대조.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/陳"
+    },
+    {
+      "key": "陈|击钟陈鼎食",
+      "tone": "平",
+      "reason": "진술·진열 또는 陳王·陳完 인명. 廣韻 直珍切 陳列張布姓; 直刃切는 자서의 同陣 軍伍行列也와 대조.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/陳"
+    },
+    {
+      "key": "陈|羁旅接陈完",
+      "tone": "平",
+      "reason": "진술·진열 또는 陳王·陳完 인명. 廣韻 直珍切 陳列張布姓; 直刃切는 자서의 同陣 軍伍行列也와 대조.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/陳"
+    },
+    {
+      "key": "陈|遂摧师而覆陈",
+      "tone": "去",
+      "reason": "전투의 군진 陣을 뜻하는 陳. 廣韻 直刃切와 康熙字典 同陣 軍伍行列也에 근거. 원문 자형은 보존.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/陳"
+    },
+    {
+      "key": "胜|纤腰掌上讵胜愁",
+      "tone": "平",
+      "reason": "감당하다·견디다의 勝. 廣韻 識蒸切 任也舉也, 康熙字典 堪也. 이기다·능가하다 詩證切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/勝"
+    },
+    {
+      "key": "胜|白发零落不胜冠",
+      "tone": "平",
+      "reason": "감당하다·견디다의 勝. 廣韻 識蒸切 任也舉也, 康熙字典 堪也. 이기다·능가하다 詩證切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/勝"
+    },
+    {
+      "key": "胜|道胜多增荣",
+      "tone": "去",
+      "reason": "이기다·능가하다 또는 뛰어남의 勝. 廣韻 詩證切와 康熙字典 勝負·優過에 근거. 감당하다 識蒸切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/勝"
+    },
+    {
+      "key": "胜|方同战胜者",
+      "tone": "去",
+      "reason": "이기다·능가하다 또는 뛰어남의 勝. 廣韻 詩證切와 康熙字典 勝負·優過에 근거. 감당하다 識蒸切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/勝"
+    },
+    {
+      "key": "胜|战胜臞者肥",
+      "tone": "去",
+      "reason": "이기다·능가하다 또는 뛰어남의 勝. 廣韻 詩證切와 康熙字典 勝負·優過에 근거. 감당하다 識蒸切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/勝"
+    },
+    {
+      "key": "胜|回舆寻胜缘",
+      "tone": "去",
+      "reason": "이기다·능가하다 또는 뛰어남의 勝. 廣韻 詩證切와 康熙字典 勝負·優過에 근거. 감당하다 識蒸切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/勝"
+    },
+    {
+      "key": "胜|向晚判胜朝",
+      "tone": "去",
+      "reason": "이기다·능가하다 또는 뛰어남의 勝. 廣韻 詩證切와 康熙字典 勝負·優過에 근거. 감당하다 識蒸切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/勝"
+    },
+    {
+      "key": "胜|鲜肤胜粉白",
+      "tone": "去",
+      "reason": "이기다·능가하다 또는 뛰어남의 勝. 廣韻 詩證切와 康熙字典 勝負·優過에 근거. 감당하다 識蒸切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/勝"
+    },
+    {
+      "key": "胜|夏浅更胜春",
+      "tone": "去",
+      "reason": "이기다·능가하다 또는 뛰어남의 勝. 廣韻 詩證切와 康熙字典 勝負·優過에 근거. 감당하다 識蒸切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/勝"
+    },
+    {
+      "key": "胜|任罗胜绮强自持",
+      "tone": "去",
+      "reason": "이기다·능가하다 또는 뛰어남의 勝. 廣韻 詩證切와 康熙字典 勝負·優過에 근거. 감당하다 識蒸切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/勝"
+    },
+    {
+      "key": "胜|粉光胜玉靓",
+      "tone": "去",
+      "reason": "이기다·능가하다 또는 뛰어남의 勝. 廣韻 詩證切와 康熙字典 勝負·優過에 근거. 감당하다 識蒸切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/勝"
+    },
+    {
+      "key": "胜|犹胜边地胡笳声",
+      "tone": "去",
+      "reason": "이기다·능가하다 또는 뛰어남의 勝. 廣韻 詩證切와 康熙字典 勝負·優過에 근거. 감당하다 識蒸切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/勝"
+    },
+    {
+      "key": "遗|倾躯无遗虑",
+      "tone": "平",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/遺"
+    },
+    {
+      "key": "遗|贡公未遗荣",
+      "tone": "平",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/遺"
+    },
+    {
+      "key": "遗|观此遗物虑",
+      "tone": "平",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/遺"
+    },
+    {
+      "key": "遗|遗情舍尘物",
+      "tone": "平",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/遺"
+    },
+    {
+      "key": "遗|良时不见遗",
+      "tone": "平",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/遺"
+    },
+    {
+      "key": "遗|受遗寄于御床",
+      "tone": "平",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/遺"
+    },
+    {
+      "key": "遗|萧散得遗虑",
+      "tone": "平",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/遺"
+    },
+    {
+      "key": "遗|览朱管之遗册",
+      "tone": "平",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/遺"
+    },
+    {
+      "key": "遗|味哲人之遗珍",
+      "tone": "平",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/遺"
+    },
+    {
+      "key": "遗|粉筐黛器靡复遗",
+      "tone": "平",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/遺"
+    },
+    {
+      "key": "遗|箫管有遗声",
+      "tone": "平",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/遺"
+    },
+    {
+      "key": "养|养生念将老",
+      "tone": "上",
+      "reason": "기르다·보양하다의 養. 廣韻 餘兩切 育也에 따른 문맥 판독. 명사적 봉양·공양 餘亮切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/養"
+    },
+    {
+      "key": "养|得尽养生年",
+      "tone": "上",
+      "reason": "기르다·보양하다의 養. 廣韻 餘兩切 育也에 따른 문맥 판독. 명사적 봉양·공양 餘亮切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/養"
+    },
+    {
+      "key": "养|养龙在泉",
+      "tone": "上",
+      "reason": "기르다·보양하다의 養. 廣韻 餘兩切 育也에 따른 문맥 판독. 명사적 봉양·공양 餘亮切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/養"
+    },
+    {
+      "key": "养|养疴亦园中",
+      "tone": "上",
+      "reason": "기르다·보양하다의 養. 廣韻 餘兩切 育也에 따른 문맥 판독. 명사적 봉양·공양 餘亮切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/養"
+    },
+    {
+      "key": "养|贪痴养忧畏",
+      "tone": "上",
+      "reason": "기르다·보양하다의 養. 廣韻 餘兩切 育也에 따른 문맥 판독. 명사적 봉양·공양 餘亮切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/養"
+    },
+    {
+      "key": "养|且养凌云翅",
+      "tone": "上",
+      "reason": "기르다·보양하다의 養. 廣韻 餘兩切 育也에 따른 문맥 판독. 명사적 봉양·공양 餘亮切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/養"
+    },
+    {
+      "key": "养|养德乃入神",
+      "tone": "上",
+      "reason": "기르다·보양하다의 養. 廣韻 餘兩切 育也에 따른 문맥 판독. 명사적 봉양·공양 餘亮切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/養"
+    },
+    {
+      "key": "弹|弹琴复千转",
+      "tone": "平",
+      "reason": "琴을 타다·巾을 털다의 동사 彈. 廣韻 徒干切 彈射 및 자서 琴瑟·彈冠 용법과 대조. 탄환 명사 徒案切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/彈"
+    },
+    {
+      "key": "弹|朱门竞弹巾",
+      "tone": "平",
+      "reason": "琴을 타다·巾을 털다의 동사 彈. 廣韻 徒干切 彈射 및 자서 琴瑟·彈冠 용법과 대조. 탄환 명사 徒案切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/彈"
+    },
+    {
+      "key": "弹|中散未弹琴",
+      "tone": "平",
+      "reason": "琴을 타다·巾을 털다의 동사 彈. 廣韻 徒干切 彈射 및 자서 琴瑟·彈冠 용법과 대조. 탄환 명사 徒案切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/彈"
+    },
+    {
+      "key": "弹|弹琴蜀郡卓家女",
+      "tone": "平",
+      "reason": "琴을 타다·巾을 털다의 동사 彈. 廣韻 徒干切 彈射 및 자서 琴瑟·彈冠 용법과 대조. 탄환 명사 徒案切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/彈"
+    },
+    {
+      "key": "弹|柘弹隋珠丸",
+      "tone": "去",
+      "reason": "柘彈·挾彈의 탄환·탄궁 명사. 廣韻 徒案切 彈丸; 동사 徒干切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/彈"
+    },
+    {
+      "key": "弹|挟弹雕陵下",
+      "tone": "去",
+      "reason": "柘彈·挾彈의 탄환·탄궁 명사. 廣韻 徒案切 彈丸; 동사 徒干切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/彈"
+    },
+    {
+      "key": "弹|游童初挟弹",
+      "tone": "去",
+      "reason": "柘彈·挾彈의 탄환·탄궁 명사. 廣韻 徒案切 彈丸; 동사 徒干切와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/彈"
+    },
+    {
+      "key": "障|云中亭障羽檄惊",
+      "tone": "去",
+      "reason": "방어시설 亭障·乘障 및 말안장의 障泥 명사. 廣韻 之亮切 界也步障; 諸良切 隔也와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/障"
+    },
+    {
+      "key": "障|乘障远和戎",
+      "tone": "去",
+      "reason": "방어시설 亭障·乘障 및 말안장의 障泥 명사. 廣韻 之亮切 界也步障; 諸良切 隔也와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/障"
+    },
+    {
+      "key": "障|连钱障泥渡水骑",
+      "tone": "去",
+      "reason": "방어시설 亭障·乘障 및 말안장의 障泥 명사. 廣韻 之亮切 界也步障; 諸良切 隔也와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/障"
+    },
+    {
+      "key": "障|萧条亭障远",
+      "tone": "去",
+      "reason": "방어시설 亭障·乘障 및 말안장의 障泥 명사. 廣韻 之亮切 界也步障; 諸良切 隔也와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/障"
+    },
+    {
+      "key": "障|亭障绕黄河",
+      "tone": "去",
+      "reason": "방어시설 亭障·乘障 및 말안장의 障泥 명사. 廣韻 之亮切 界也步障; 諸良切 隔也와 구별.",
+      "review_id": "2026-10-08-batch04-2491",
+      "evidence_type": "contextual_reading",
+      "cross_check_url": "https://www.zdic.net/hans/障"
+    }
+  ],
+  "before_tokens": [
+    {
+      "poem_id": "7b58793319527080de8e87083e196fbf",
+      "content_index": 14,
+      "offset": 4,
+      "char": "陈",
+      "context": "弃置勿复陈",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 直珍切 陳列也張也眾也布也故也亦州名本太昊之墟畫八卦之所周武王封舜後胡公滿於陳楚滅陳爲縣漢爲淮陽國隋爲陳州又姓胡公滿之後子孫以國爲氏出潁川汝南下邳廣陵東海河南六望又虜三字姓後魏書有侯莫陳氏直珍切又直刃切五 / 去 直刃切 上同見經典"
+    },
+    {
+      "poem_id": "7b58793319527080de8e87083e196fbf",
+      "content_index": 14,
+      "offset": 7,
+      "char": "陈",
+      "context": "重陈长叹息",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 直珍切 陳列也張也眾也布也故也亦州名本太昊之墟畫八卦之所周武王封舜後胡公滿於陳楚滅陳爲縣漢爲淮陽國隋爲陳州又姓胡公滿之後子孫以國爲氏出潁川汝南下邳廣陵東海河南六望又虜三字姓後魏書有侯莫陳氏直珍切又直刃切五 / 去 直刃切 上同見經典"
+    },
+    {
+      "poem_id": "7b587933195270801433cb05367753a7",
+      "content_index": 1,
+      "offset": 1,
+      "char": "弹",
+      "context": "柘弹隋珠丸",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 徒干切 糾也射也亦彈棊梁冀傳云冀好彈棊也又徒案切 / 去 徒案切 行丸又徒丹切"
+    },
+    {
+      "poem_id": "7b587933195270804de3ab2961bcacc4",
+      "content_index": 4,
+      "offset": 1,
+      "char": "胜",
+      "context": "道胜多增荣",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 桑經切 犬膏臭也 / 平 識蒸切 任也舉也說文本从舟經典省作月他皆倣此又漢複姓何氏姓苑有勝屠公爲河東太守又書證切 / 去 詩證切 勝負又加也克也亦州名春秋時戎狄地戰國時晉趙地漢雲中五原也隋置榆林鎮屬雲州唐武德中改爲勝州詩證切又詩陵切四"
+    },
+    {
+      "poem_id": "7b5879332769d0d3e7758e737eb4f93d",
+      "content_index": 7,
+      "offset": 3,
+      "char": "胜",
+      "context": "方同战胜者",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 桑經切 犬膏臭也 / 平 識蒸切 任也舉也說文本从舟經典省作月他皆倣此又漢複姓何氏姓苑有勝屠公爲河東太守又書證切 / 去 詩證切 勝負又加也克也亦州名春秋時戎狄地戰國時晉趙地漢雲中五原也隋置榆林鎮屬雲州唐武德中改爲勝州詩證切又詩陵切四"
+    },
+    {
+      "poem_id": "7b587933367d4562d458345382f3b4ad",
+      "content_index": 74,
+      "offset": 3,
+      "char": "遗",
+      "context": "倾躯无遗虑",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 以追切 失也亡也贈也加也又姓急就章有遺餘又以醉切 / 去 以醉切 贈也以醉切又音惟七"
+    },
+    {
+      "poem_id": "7b587933367d4562d458345382f3b4ad",
+      "content_index": 96,
+      "offset": 6,
+      "char": "养",
+      "context": "养生念将老",
+      "tone": "□",
+      "pingze": "仄",
+      "possible_tones": [
+        "上",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 上 餘兩切 育也樂也飾也字從羊食又姓孝子傳有養奮餘兩切七 / 去 餘亮切 供養"
+    },
+    {
+      "poem_id": "7b587933367d4562811bd52f4a9210c0",
+      "content_index": 0,
+      "offset": 9,
+      "char": "遗",
+      "context": "贡公未遗荣",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 以追切 失也亡也贈也加也又姓急就章有遺餘又以醉切 / 去 以醉切 贈也以醉切又音惟七"
+    },
+    {
+      "poem_id": "7b587933367d4562811bd52f4a9210c0",
+      "content_index": 14,
+      "offset": 1,
+      "char": "胜",
+      "context": "战胜臞者肥",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 桑經切 犬膏臭也 / 平 識蒸切 任也舉也說文本从舟經典省作月他皆倣此又漢複姓何氏姓苑有勝屠公爲河東太守又書證切 / 去 詩證切 勝負又加也克也亦州名春秋時戎狄地戰國時晉趙地漢雲中五原也隋置榆林鎮屬雲州唐武德中改爲勝州詩證切又詩陵切四"
+    },
+    {
+      "poem_id": "7b587933367d456217e8d2cc3333b6cb",
+      "content_index": 6,
+      "offset": 8,
+      "char": "养",
+      "context": "得尽养生年",
+      "tone": "□",
+      "pingze": "仄",
+      "possible_tones": [
+        "上",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 上 餘兩切 育也樂也飾也字從羊食又姓孝子傳有養奮餘兩切七 / 去 餘亮切 供養"
+    },
+    {
+      "poem_id": "7b587933367d45623800123e4b720b41",
+      "content_index": 10,
+      "offset": 2,
+      "char": "遗",
+      "context": "观此遗物虑",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 以追切 失也亡也贈也加也又姓急就章有遺餘又以醉切 / 去 以醉切 贈也以醉切又音惟七"
+    },
+    {
+      "poem_id": "7b587933367d456247960f0243224fd9",
+      "content_index": 0,
+      "offset": 5,
+      "char": "养",
+      "context": "养龙在泉",
+      "tone": "□",
+      "pingze": "仄",
+      "possible_tones": [
+        "上",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 上 餘兩切 育也樂也飾也字從羊食又姓孝子傳有養奮餘兩切七 / 去 餘亮切 供養"
+    },
+    {
+      "poem_id": "7b587933367d4562d664084854c23c40",
+      "content_index": 4,
+      "offset": 12,
+      "char": "遗",
+      "context": "遗情舍尘物",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 以追切 失也亡也贈也加也又姓急就章有遺餘又以醉切 / 去 以醉切 贈也以醉切又音惟七"
+    },
+    {
+      "poem_id": "7b587933367d4562efb6a62ed6bb06a4",
+      "content_index": 6,
+      "offset": 4,
+      "char": "遗",
+      "context": "良时不见遗",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 以追切 失也亡也贈也加也又姓急就章有遺餘又以醉切 / 去 以醉切 贈也以醉切又音惟七"
+    },
+    {
+      "poem_id": "7b587933367d456224f07d75e7f4cab4",
+      "content_index": 0,
+      "offset": 2,
+      "char": "陈",
+      "context": "诗人陈条柯",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 直珍切 陳列也張也眾也布也故也亦州名本太昊之墟畫八卦之所周武王封舜後胡公滿於陳楚滅陳爲縣漢爲淮陽國隋爲陳州又姓胡公滿之後子孫以國爲氏出潁川汝南下邳廣陵東海河南六望又虜三字姓後魏書有侯莫陳氏直珍切又直刃切五 / 去 直刃切 上同見經典"
+    },
+    {
+      "poem_id": "7b587933367d456276783a2bd590c84d",
+      "content_index": 1,
+      "offset": 6,
+      "char": "养",
+      "context": "养疴亦园中",
+      "tone": "□",
+      "pingze": "仄",
+      "possible_tones": [
+        "上",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 上 餘兩切 育也樂也飾也字從羊食又姓孝子傳有養奮餘兩切七 / 去 餘亮切 供養"
+    },
+    {
+      "poem_id": "7b5879334f307ee658e52989e1f84a18",
+      "content_index": 7,
+      "offset": 2,
+      "char": "养",
+      "context": "贪痴养忧畏",
+      "tone": "□",
+      "pingze": "仄",
+      "possible_tones": [
+        "上",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 上 餘兩切 育也樂也飾也字從羊食又姓孝子傳有養奮餘兩切七 / 去 餘亮切 供養"
+    },
+    {
+      "poem_id": "7b5879334f307ee658e52989e1f84a18",
+      "content_index": 9,
+      "offset": 9,
+      "char": "胜",
+      "context": "回舆寻胜缘",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 桑經切 犬膏臭也 / 平 識蒸切 任也舉也說文本从舟經典省作月他皆倣此又漢複姓何氏姓苑有勝屠公爲河東太守又書證切 / 去 詩證切 勝負又加也克也亦州名春秋時戎狄地戰國時晉趙地漢雲中五原也隋置榆林鎮屬雲州唐武德中改爲勝州詩證切又詩陵切四"
+    },
+    {
+      "poem_id": "7b58793361c1054864a7430324cde6c8",
+      "content_index": 3,
+      "offset": 9,
+      "char": "胜",
+      "context": "向晚判胜朝",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 桑經切 犬膏臭也 / 平 識蒸切 任也舉也說文本从舟經典省作月他皆倣此又漢複姓何氏姓苑有勝屠公爲河東太守又書證切 / 去 詩證切 勝負又加也克也亦州名春秋時戎狄地戰國時晉趙地漢雲中五原也隋置榆林鎮屬雲州唐武德中改爲勝州詩證切又詩陵切四"
+    },
+    {
+      "poem_id": "7b58793367f2c9ec0a108699228d88cb",
+      "content_index": 0,
+      "offset": 14,
+      "char": "胜",
+      "context": "鲜肤胜粉白",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 桑經切 犬膏臭也 / 平 識蒸切 任也舉也說文本从舟經典省作月他皆倣此又漢複姓何氏姓苑有勝屠公爲河東太守又書證切 / 去 詩證切 勝負又加也克也亦州名春秋時戎狄地戰國時晉趙地漢雲中五原也隋置榆林鎮屬雲州唐武德中改爲勝州詩證切又詩陵切四"
+    },
+    {
+      "poem_id": "7b58793367f2c9ec0a108699228d88cb",
+      "content_index": 1,
+      "offset": 1,
+      "char": "弹",
+      "context": "挟弹雕陵下",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 徒干切 糾也射也亦彈棊梁冀傳云冀好彈棊也又徒案切 / 去 徒案切 行丸又徒丹切"
+    },
+    {
+      "poem_id": "7b5879337fe0875dc0678e614e8c3504",
+      "content_index": 18,
+      "offset": 1,
+      "char": "养",
+      "context": "且养凌云翅",
+      "tone": "□",
+      "pingze": "仄",
+      "possible_tones": [
+        "上",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 上 餘兩切 育也樂也飾也字從羊食又姓孝子傳有養奮餘兩切七 / 去 餘亮切 供養"
+    },
+    {
+      "poem_id": "7b5879337fe0875de0a4f8054f0c9879",
+      "content_index": 0,
+      "offset": 0,
+      "char": "陈",
+      "context": "陈王斗鸡道",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 直珍切 陳列也張也眾也布也故也亦州名本太昊之墟畫八卦之所周武王封舜後胡公滿於陳楚滅陳爲縣漢爲淮陽國隋爲陳州又姓胡公滿之後子孫以國爲氏出潁川汝南下邳廣陵東海河南六望又虜三字姓後魏書有侯莫陳氏直珍切又直刃切五 / 去 直刃切 上同見經典"
+    },
+    {
+      "poem_id": "7b5879338b029cfe6fc2b037097046ba",
+      "content_index": 0,
+      "offset": 146,
+      "char": "遗",
+      "context": "受遗寄于御床",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 以追切 失也亡也贈也加也又姓急就章有遺餘又以醉切 / 去 以醉切 贈也以醉切又音惟七"
+    },
+    {
+      "poem_id": "7b5879338b029cfe6fc2b037097046ba",
+      "content_index": 2,
+      "offset": 195,
+      "char": "陈",
+      "context": "遂摧师而覆陈",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 直珍切 陳列也張也眾也布也故也亦州名本太昊之墟畫八卦之所周武王封舜後胡公滿於陳楚滅陳爲縣漢爲淮陽國隋爲陳州又姓胡公滿之後子孫以國爲氏出潁川汝南下邳廣陵東海河南六望又虜三字姓後魏書有侯莫陳氏直珍切又直刃切五 / 去 直刃切 上同見經典"
+    },
+    {
+      "poem_id": "7b5879338b088778dc62d2a0cae2318a",
+      "content_index": 0,
+      "offset": 9,
+      "char": "胜",
+      "context": "夏浅更胜春",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 桑經切 犬膏臭也 / 平 識蒸切 任也舉也說文本从舟經典省作月他皆倣此又漢複姓何氏姓苑有勝屠公爲河東太守又書證切 / 去 詩證切 勝負又加也克也亦州名春秋時戎狄地戰國時晉趙地漢雲中五原也隋置榆林鎮屬雲州唐武德中改爲勝州詩證切又詩陵切四"
+    },
+    {
+      "poem_id": "7b5879339a2e60bbfc988f50e722174e",
+      "content_index": 1,
+      "offset": 10,
+      "char": "胜",
+      "context": "任罗胜绮强自持",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 桑經切 犬膏臭也 / 平 識蒸切 任也舉也說文本从舟經典省作月他皆倣此又漢複姓何氏姓苑有勝屠公爲河東太守又書證切 / 去 詩證切 勝負又加也克也亦州名春秋時戎狄地戰國時晉趙地漢雲中五原也隋置榆林鎮屬雲州唐武德中改爲勝州詩證切又詩陵切四"
+    },
+    {
+      "poem_id": "7b587933a490580394149db78bb67abc",
+      "content_index": 5,
+      "offset": 13,
+      "char": "胜",
+      "context": "纤腰掌上讵胜愁",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 桑經切 犬膏臭也 / 平 識蒸切 任也舉也說文本从舟經典省作月他皆倣此又漢複姓何氏姓苑有勝屠公爲河東太守又書證切 / 去 詩證切 勝負又加也克也亦州名春秋時戎狄地戰國時晉趙地漢雲中五原也隋置榆林鎮屬雲州唐武德中改爲勝州詩證切又詩陵切四"
+    },
+    {
+      "poem_id": "7b587933d6059db765321c0b01c7371c",
+      "content_index": 2,
+      "offset": 6,
+      "char": "弹",
+      "context": "弹琴复千转",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 徒干切 糾也射也亦彈棊梁冀傳云冀好彈棊也又徒案切 / 去 徒案切 行丸又徒丹切"
+    },
+    {
+      "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
+      "content_index": 66,
+      "offset": 6,
+      "char": "养",
+      "context": "养德乃入神",
+      "tone": "□",
+      "pingze": "仄",
+      "possible_tones": [
+        "上",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 上 餘兩切 育也樂也飾也字從羊食又姓孝子傳有養奮餘兩切七 / 去 餘亮切 供養"
+    },
+    {
+      "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
+      "content_index": 191,
+      "offset": 9,
+      "char": "遗",
+      "context": "萧散得遗虑",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 以追切 失也亡也贈也加也又姓急就章有遺餘又以醉切 / 去 以醉切 贈也以醉切又音惟七"
+    },
+    {
+      "poem_id": "7b587933dafe0f9bc5297ea6aff3e62b",
+      "content_index": 63,
+      "offset": 9,
+      "char": "弹",
+      "context": "朱门竞弹巾",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 徒干切 糾也射也亦彈棊梁冀傳云冀好彈棊也又徒案切 / 去 徒案切 行丸又徒丹切"
+    },
+    {
+      "poem_id": "7b587933dafe0f9ba172eb5622f58e05",
+      "content_index": 33,
+      "offset": 11,
+      "char": "遗",
+      "context": "览朱管之遗册",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 以追切 失也亡也贈也加也又姓急就章有遺餘又以醉切 / 去 以醉切 贈也以醉切又音惟七"
+    },
+    {
+      "poem_id": "7b587933dafe0f9ba172eb5622f58e05",
+      "content_index": 47,
+      "offset": 4,
+      "char": "遗",
+      "context": "味哲人之遗珍",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 以追切 失也亡也贈也加也又姓急就章有遺餘又以醉切 / 去 以醉切 贈也以醉切又音惟七"
+    },
+    {
+      "poem_id": "7b587933dafe0f9ba172eb56890c64f1",
+      "content_index": 33,
+      "offset": 11,
+      "char": "遗",
+      "context": "览朱管之遗册",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 以追切 失也亡也贈也加也又姓急就章有遺餘又以醉切 / 去 以醉切 贈也以醉切又音惟七"
+    },
+    {
+      "poem_id": "7b587933dafe0f9ba172eb56890c64f1",
+      "content_index": 47,
+      "offset": 4,
+      "char": "遗",
+      "context": "味哲人之遗珍",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 以追切 失也亡也贈也加也又姓急就章有遺餘又以醉切 / 去 以醉切 贈也以醉切又音惟七"
+    },
+    {
+      "poem_id": "7b587933f90b57c974b91460e7272a7a",
+      "content_index": 1,
+      "offset": 4,
+      "char": "弹",
+      "context": "游童初挟弹",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 徒干切 糾也射也亦彈棊梁冀傳云冀好彈棊也又徒案切 / 去 徒案切 行丸又徒丹切"
+    },
+    {
+      "poem_id": "7b587933f90b57c93a3c506735a086a0",
+      "content_index": 2,
+      "offset": 2,
+      "char": "胜",
+      "context": "粉光胜玉靓",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 桑經切 犬膏臭也 / 平 識蒸切 任也舉也說文本从舟經典省作月他皆倣此又漢複姓何氏姓苑有勝屠公爲河東太守又書證切 / 去 詩證切 勝負又加也克也亦州名春秋時戎狄地戰國時晉趙地漢雲中五原也隋置榆林鎮屬雲州唐武德中改爲勝州詩證切又詩陵切四"
+    },
+    {
+      "poem_id": "7b587933f90b57c928e14df6674d62e1",
+      "content_index": 1,
+      "offset": 2,
+      "char": "陈",
+      "context": "今似陈王叹",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 直珍切 陳列也張也眾也布也故也亦州名本太昊之墟畫八卦之所周武王封舜後胡公滿於陳楚滅陳爲縣漢爲淮陽國隋爲陳州又姓胡公滿之後子孫以國爲氏出潁川汝南下邳廣陵東海河南六望又虜三字姓後魏書有侯莫陳氏直珍切又直刃切五 / 去 直刃切 上同見經典"
+    },
+    {
+      "poem_id": "7b587933f90b57c942fe621f824a5b9e",
+      "content_index": 8,
+      "offset": 3,
+      "char": "障",
+      "context": "云中亭障羽檄惊",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 諸良切 隔也又丘山頂上平又音去聲 / 去 之亮切 界也隔也又步障也王君夫作絲巾步障三十里石崇作錦障五十里以敵之之亮切五"
+    },
+    {
+      "poem_id": "7b587933f95faa16d06379742b36830c",
+      "content_index": 14,
+      "offset": 7,
+      "char": "障",
+      "context": "乘障远和戎",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 諸良切 隔也又丘山頂上平又音去聲 / 去 之亮切 界也隔也又步障也王君夫作絲巾步障三十里石崇作錦障五十里以敵之之亮切五"
+    },
+    {
+      "poem_id": "7b587933f95faa16d06379742b36830c",
+      "content_index": 38,
+      "offset": 6,
+      "char": "陈",
+      "context": "陈觯发瓢壶",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 直珍切 陳列也張也眾也布也故也亦州名本太昊之墟畫八卦之所周武王封舜後胡公滿於陳楚滅陳爲縣漢爲淮陽國隋爲陳州又姓胡公滿之後子孫以國爲氏出潁川汝南下邳廣陵東海河南六望又虜三字姓後魏書有侯莫陳氏直珍切又直刃切五 / 去 直刃切 上同見經典"
+    },
+    {
+      "poem_id": "7b587933f95faa16e29043e7b4db8c90",
+      "content_index": 5,
+      "offset": 14,
+      "char": "遗",
+      "context": "粉筐黛器靡复遗",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 以追切 失也亡也贈也加也又姓急就章有遺餘又以醉切 / 去 以醉切 贈也以醉切又音惟七"
+    },
+    {
+      "poem_id": "7b587933f95faa16ddd85be0361b0781",
+      "content_index": 3,
+      "offset": 13,
+      "char": "胜",
+      "context": "白发零落不胜冠",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 桑經切 犬膏臭也 / 平 識蒸切 任也舉也說文本从舟經典省作月他皆倣此又漢複姓何氏姓苑有勝屠公爲河東太守又書證切 / 去 詩證切 勝負又加也克也亦州名春秋時戎狄地戰國時晉趙地漢雲中五原也隋置榆林鎮屬雲州唐武德中改爲勝州詩證切又詩陵切四"
+    },
+    {
+      "poem_id": "7b587933f95faa161434ad897e0eb003",
+      "content_index": 10,
+      "offset": 9,
+      "char": "遗",
+      "context": "箫管有遗声",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 以追切 失也亡也贈也加也又姓急就章有遺餘又以醉切 / 去 以醉切 贈也以醉切又音惟七"
+    },
+    {
+      "poem_id": "7b587933f95faa16974855855b2eda42",
+      "content_index": 8,
+      "offset": 2,
+      "char": "陈",
+      "context": "击钟陈鼎食",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 直珍切 陳列也張也眾也布也故也亦州名本太昊之墟畫八卦之所周武王封舜後胡公滿於陳楚滅陳爲縣漢爲淮陽國隋爲陳州又姓胡公滿之後子孫以國爲氏出潁川汝南下邳廣陵東海河南六望又虜三字姓後魏書有侯莫陳氏直珍切又直刃切五 / 去 直刃切 上同見經典"
+    },
+    {
+      "poem_id": "7b587933a644b67c2f683caf45f2b2e1",
+      "content_index": 7,
+      "offset": 2,
+      "char": "障",
+      "context": "连钱障泥渡水骑",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 諸良切 隔也又丘山頂上平又音去聲 / 去 之亮切 界也隔也又步障也王君夫作絲巾步障三十里石崇作錦障五十里以敵之之亮切五"
+    },
+    {
+      "poem_id": "7b587933a644b67c951f798686fcb3c8",
+      "content_index": 1,
+      "offset": 9,
+      "char": "弹",
+      "context": "中散未弹琴",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 徒干切 糾也射也亦彈棊梁冀傳云冀好彈棊也又徒案切 / 去 徒案切 行丸又徒丹切"
+    },
+    {
+      "poem_id": "7b587933a644b67c951f798686fcb3c8",
+      "content_index": 20,
+      "offset": 9,
+      "char": "陈",
+      "context": "羁旅接陈完",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 直珍切 陳列也張也眾也布也故也亦州名本太昊之墟畫八卦之所周武王封舜後胡公滿於陳楚滅陳爲縣漢爲淮陽國隋爲陳州又姓胡公滿之後子孫以國爲氏出潁川汝南下邳廣陵東海河南六望又虜三字姓後魏書有侯莫陳氏直珍切又直刃切五 / 去 直刃切 上同見經典"
+    },
+    {
+      "poem_id": "7b587933a644b67c951f798686fcb3c8",
+      "content_index": 155,
+      "offset": 3,
+      "char": "障",
+      "context": "萧条亭障远",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 諸良切 隔也又丘山頂上平又音去聲 / 去 之亮切 界也隔也又步障也王君夫作絲巾步障三十里石崇作錦障五十里以敵之之亮切五"
+    },
+    {
+      "poem_id": "7b587933a644b67c305ecd06b2939349",
+      "content_index": 2,
+      "offset": 0,
+      "char": "弹",
+      "context": "弹琴蜀郡卓家女",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 徒干切 糾也射也亦彈棊梁冀傳云冀好彈棊也又徒案切 / 去 徒案切 行丸又徒丹切"
+    },
+    {
+      "poem_id": "7b5879335b359f73b8c99ff4e3e2189e",
+      "content_index": 9,
+      "offset": 9,
+      "char": "胜",
+      "context": "犹胜边地胡笳声",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 桑經切 犬膏臭也 / 平 識蒸切 任也舉也說文本从舟經典省作月他皆倣此又漢複姓何氏姓苑有勝屠公爲河東太守又書證切 / 去 詩證切 勝負又加也克也亦州名春秋時戎狄地戰國時晉趙地漢雲中五原也隋置榆林鎮屬雲州唐武德中改爲勝州詩證切又詩陵切四"
+    },
+    {
+      "poem_id": "7b5879335b359f738ef0177210e29d98",
+      "content_index": 1,
+      "offset": 7,
+      "char": "障",
+      "context": "亭障绕黄河",
+      "tone": "□",
+      "pingze": "□",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "unresolved",
+      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 諸良切 隔也又丘山頂上平又音去聲 / 去 之亮切 界也隔也又步障也王君夫作絲巾步障三十里石崇作錦障五十里以敵之之亮切五"
+    }
+  ],
+  "specific_holds": {
+    "陈": "진열과 군진이 겹치는 문맥 및 전고 불명은 보류",
+    "胜": "苕苕寄意勝·勝帶宦王城은 문맥·본문 문제로 보류",
+    "遗": "증여 의미는 평·거의 석의가 겹쳐 보류",
+    "养": "三川養聲利는 추가 검증 필요",
+    "澹": "상·거의 고요함 석의가 겹치며 澹容與도 거성 예가 있어 보류"
+  },
+  "token_reviews": [
+    {
+      "poem_id": "7b58793319527080de8e87083e196fbf",
+      "content_index": 14,
+      "offset": 4,
+      "char": "陈",
+      "context": "弃置勿复陈",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "진술·진열 또는 陳王·陳完 인명. 廣韻 直珍切 陳列張布姓; 直刃切는 자서의 同陣 軍伍行列也와 대조.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b58793319527080de8e87083e196fbf",
+      "content_index": 14,
+      "offset": 7,
+      "char": "陈",
+      "context": "重陈长叹息",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "진술·진열 또는 陳王·陳完 인명. 廣韻 直珍切 陳列張布姓; 直刃切는 자서의 同陣 軍伍行列也와 대조.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933195270801433cb05367753a7",
+      "content_index": 1,
+      "offset": 1,
+      "char": "弹",
+      "context": "柘弹隋珠丸",
+      "tone": "去",
+      "pingze": "仄",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "柘彈·挾彈의 탄환·탄궁 명사. 廣韻 徒案切 彈丸; 동사 徒干切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933195270804de3ab2961bcacc4",
+      "content_index": 4,
+      "offset": 1,
+      "char": "胜",
+      "context": "道胜多增荣",
+      "tone": "去",
+      "pingze": "仄",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "이기다·능가하다 또는 뛰어남의 勝. 廣韻 詩證切와 康熙字典 勝負·優過에 근거. 감당하다 識蒸切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b5879332769d0d3e7758e737eb4f93d",
+      "content_index": 7,
+      "offset": 3,
+      "char": "胜",
+      "context": "方同战胜者",
+      "tone": "去",
+      "pingze": "仄",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "이기다·능가하다 또는 뛰어남의 勝. 廣韻 詩證切와 康熙字典 勝負·優過에 근거. 감당하다 識蒸切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933367d4562d458345382f3b4ad",
+      "content_index": 74,
+      "offset": 3,
+      "char": "遗",
+      "context": "倾躯无遗虑",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933367d4562d458345382f3b4ad",
+      "content_index": 96,
+      "offset": 6,
+      "char": "养",
+      "context": "养生念将老",
+      "tone": "上",
+      "pingze": "仄",
+      "possible_tones": [
+        "上",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "기르다·보양하다의 養. 廣韻 餘兩切 育也에 따른 문맥 판독. 명사적 봉양·공양 餘亮切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "仄",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933367d4562811bd52f4a9210c0",
+      "content_index": 0,
+      "offset": 9,
+      "char": "遗",
+      "context": "贡公未遗荣",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933367d4562811bd52f4a9210c0",
+      "content_index": 14,
+      "offset": 1,
+      "char": "胜",
+      "context": "战胜臞者肥",
+      "tone": "去",
+      "pingze": "仄",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "이기다·능가하다 또는 뛰어남의 勝. 廣韻 詩證切와 康熙字典 勝負·優過에 근거. 감당하다 識蒸切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933367d456217e8d2cc3333b6cb",
+      "content_index": 6,
+      "offset": 8,
+      "char": "养",
+      "context": "得尽养生年",
+      "tone": "上",
+      "pingze": "仄",
+      "possible_tones": [
+        "上",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "기르다·보양하다의 養. 廣韻 餘兩切 育也에 따른 문맥 판독. 명사적 봉양·공양 餘亮切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "仄",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933367d45623800123e4b720b41",
+      "content_index": 10,
+      "offset": 2,
+      "char": "遗",
+      "context": "观此遗物虑",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933367d456247960f0243224fd9",
+      "content_index": 0,
+      "offset": 5,
+      "char": "养",
+      "context": "养龙在泉",
+      "tone": "上",
+      "pingze": "仄",
+      "possible_tones": [
+        "上",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "기르다·보양하다의 養. 廣韻 餘兩切 育也에 따른 문맥 판독. 명사적 봉양·공양 餘亮切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "仄",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933367d4562d664084854c23c40",
+      "content_index": 4,
+      "offset": 12,
+      "char": "遗",
+      "context": "遗情舍尘物",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933367d4562efb6a62ed6bb06a4",
+      "content_index": 6,
+      "offset": 4,
+      "char": "遗",
+      "context": "良时不见遗",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933367d456224f07d75e7f4cab4",
+      "content_index": 0,
+      "offset": 2,
+      "char": "陈",
+      "context": "诗人陈条柯",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "진술·진열 또는 陳王·陳完 인명. 廣韻 直珍切 陳列張布姓; 直刃切는 자서의 同陣 軍伍行列也와 대조.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933367d456276783a2bd590c84d",
+      "content_index": 1,
+      "offset": 6,
+      "char": "养",
+      "context": "养疴亦园中",
+      "tone": "上",
+      "pingze": "仄",
+      "possible_tones": [
+        "上",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "기르다·보양하다의 養. 廣韻 餘兩切 育也에 따른 문맥 판독. 명사적 봉양·공양 餘亮切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "仄",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b5879334f307ee658e52989e1f84a18",
+      "content_index": 7,
+      "offset": 2,
+      "char": "养",
+      "context": "贪痴养忧畏",
+      "tone": "上",
+      "pingze": "仄",
+      "possible_tones": [
+        "上",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "기르다·보양하다의 養. 廣韻 餘兩切 育也에 따른 문맥 판독. 명사적 봉양·공양 餘亮切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "仄",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b5879334f307ee658e52989e1f84a18",
+      "content_index": 9,
+      "offset": 9,
+      "char": "胜",
+      "context": "回舆寻胜缘",
+      "tone": "去",
+      "pingze": "仄",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "이기다·능가하다 또는 뛰어남의 勝. 廣韻 詩證切와 康熙字典 勝負·優過에 근거. 감당하다 識蒸切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b58793361c1054864a7430324cde6c8",
+      "content_index": 3,
+      "offset": 9,
+      "char": "胜",
+      "context": "向晚判胜朝",
+      "tone": "去",
+      "pingze": "仄",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "이기다·능가하다 또는 뛰어남의 勝. 廣韻 詩證切와 康熙字典 勝負·優過에 근거. 감당하다 識蒸切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b58793367f2c9ec0a108699228d88cb",
+      "content_index": 0,
+      "offset": 14,
+      "char": "胜",
+      "context": "鲜肤胜粉白",
+      "tone": "去",
+      "pingze": "仄",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "이기다·능가하다 또는 뛰어남의 勝. 廣韻 詩證切와 康熙字典 勝負·優過에 근거. 감당하다 識蒸切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b58793367f2c9ec0a108699228d88cb",
+      "content_index": 1,
+      "offset": 1,
+      "char": "弹",
+      "context": "挟弹雕陵下",
+      "tone": "去",
+      "pingze": "仄",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "柘彈·挾彈의 탄환·탄궁 명사. 廣韻 徒案切 彈丸; 동사 徒干切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b5879337fe0875dc0678e614e8c3504",
+      "content_index": 18,
+      "offset": 1,
+      "char": "养",
+      "context": "且养凌云翅",
+      "tone": "上",
+      "pingze": "仄",
+      "possible_tones": [
+        "上",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "기르다·보양하다의 養. 廣韻 餘兩切 育也에 따른 문맥 판독. 명사적 봉양·공양 餘亮切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "仄",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b5879337fe0875de0a4f8054f0c9879",
+      "content_index": 0,
+      "offset": 0,
+      "char": "陈",
+      "context": "陈王斗鸡道",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "진술·진열 또는 陳王·陳完 인명. 廣韻 直珍切 陳列張布姓; 直刃切는 자서의 同陣 軍伍行列也와 대조.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b5879338b029cfe6fc2b037097046ba",
+      "content_index": 0,
+      "offset": 146,
+      "char": "遗",
+      "context": "受遗寄于御床",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b5879338b029cfe6fc2b037097046ba",
+      "content_index": 2,
+      "offset": 195,
+      "char": "陈",
+      "context": "遂摧师而覆陈",
+      "tone": "去",
+      "pingze": "仄",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "전투의 군진 陣을 뜻하는 陳. 廣韻 直刃切와 康熙字典 同陣 軍伍行列也에 근거. 원문 자형은 보존.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b5879338b088778dc62d2a0cae2318a",
+      "content_index": 0,
+      "offset": 9,
+      "char": "胜",
+      "context": "夏浅更胜春",
+      "tone": "去",
+      "pingze": "仄",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "이기다·능가하다 또는 뛰어남의 勝. 廣韻 詩證切와 康熙字典 勝負·優過에 근거. 감당하다 識蒸切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b5879339a2e60bbfc988f50e722174e",
+      "content_index": 1,
+      "offset": 10,
+      "char": "胜",
+      "context": "任罗胜绮强自持",
+      "tone": "去",
+      "pingze": "仄",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "이기다·능가하다 또는 뛰어남의 勝. 廣韻 詩證切와 康熙字典 勝負·優過에 근거. 감당하다 識蒸切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933a490580394149db78bb67abc",
+      "content_index": 5,
+      "offset": 13,
+      "char": "胜",
+      "context": "纤腰掌上讵胜愁",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "감당하다·견디다의 勝. 廣韻 識蒸切 任也舉也, 康熙字典 堪也. 이기다·능가하다 詩證切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933d6059db765321c0b01c7371c",
+      "content_index": 2,
+      "offset": 6,
+      "char": "弹",
+      "context": "弹琴复千转",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "琴을 타다·巾을 털다의 동사 彈. 廣韻 徒干切 彈射 및 자서 琴瑟·彈冠 용법과 대조. 탄환 명사 徒案切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
+      "content_index": 66,
+      "offset": 6,
+      "char": "养",
+      "context": "养德乃入神",
+      "tone": "上",
+      "pingze": "仄",
+      "possible_tones": [
+        "上",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "기르다·보양하다의 養. 廣韻 餘兩切 育也에 따른 문맥 판독. 명사적 봉양·공양 餘亮切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "仄",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
+      "content_index": 191,
+      "offset": 9,
+      "char": "遗",
+      "context": "萧散得遗虑",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933dafe0f9bc5297ea6aff3e62b",
+      "content_index": 63,
+      "offset": 9,
+      "char": "弹",
+      "context": "朱门竞弹巾",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "琴을 타다·巾을 털다의 동사 彈. 廣韻 徒干切 彈射 및 자서 琴瑟·彈冠 용법과 대조. 탄환 명사 徒案切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933dafe0f9ba172eb5622f58e05",
+      "content_index": 33,
+      "offset": 11,
+      "char": "遗",
+      "context": "览朱管之遗册",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933dafe0f9ba172eb5622f58e05",
+      "content_index": 47,
+      "offset": 4,
+      "char": "遗",
+      "context": "味哲人之遗珍",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933dafe0f9ba172eb56890c64f1",
+      "content_index": 33,
+      "offset": 11,
+      "char": "遗",
+      "context": "览朱管之遗册",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933dafe0f9ba172eb56890c64f1",
+      "content_index": 47,
+      "offset": 4,
+      "char": "遗",
+      "context": "味哲人之遗珍",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933f90b57c974b91460e7272a7a",
+      "content_index": 1,
+      "offset": 4,
+      "char": "弹",
+      "context": "游童初挟弹",
+      "tone": "去",
+      "pingze": "仄",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "柘彈·挾彈의 탄환·탄궁 명사. 廣韻 徒案切 彈丸; 동사 徒干切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933f90b57c93a3c506735a086a0",
+      "content_index": 2,
+      "offset": 2,
+      "char": "胜",
+      "context": "粉光胜玉靓",
+      "tone": "去",
+      "pingze": "仄",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "이기다·능가하다 또는 뛰어남의 勝. 廣韻 詩證切와 康熙字典 勝負·優過에 근거. 감당하다 識蒸切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933f90b57c928e14df6674d62e1",
+      "content_index": 1,
+      "offset": 2,
+      "char": "陈",
+      "context": "今似陈王叹",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "진술·진열 또는 陳王·陳完 인명. 廣韻 直珍切 陳列張布姓; 直刃切는 자서의 同陣 軍伍行列也와 대조.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933f90b57c942fe621f824a5b9e",
+      "content_index": 8,
+      "offset": 3,
+      "char": "障",
+      "context": "云中亭障羽檄惊",
+      "tone": "去",
+      "pingze": "仄",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "방어시설 亭障·乘障 및 말안장의 障泥 명사. 廣韻 之亮切 界也步障; 諸良切 隔也와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933f95faa16d06379742b36830c",
+      "content_index": 14,
+      "offset": 7,
+      "char": "障",
+      "context": "乘障远和戎",
+      "tone": "去",
+      "pingze": "仄",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "방어시설 亭障·乘障 및 말안장의 障泥 명사. 廣韻 之亮切 界也步障; 諸良切 隔也와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933f95faa16d06379742b36830c",
+      "content_index": 38,
+      "offset": 6,
+      "char": "陈",
+      "context": "陈觯发瓢壶",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "진술·진열 또는 陳王·陳完 인명. 廣韻 直珍切 陳列張布姓; 直刃切는 자서의 同陣 軍伍行列也와 대조.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933f95faa16e29043e7b4db8c90",
+      "content_index": 5,
+      "offset": 14,
+      "char": "遗",
+      "context": "粉筐黛器靡复遗",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933f95faa16ddd85be0361b0781",
+      "content_index": 3,
+      "offset": 13,
+      "char": "胜",
+      "context": "白发零落不胜冠",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "감당하다·견디다의 勝. 廣韻 識蒸切 任也舉也, 康熙字典 堪也. 이기다·능가하다 詩證切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933f95faa161434ad897e0eb003",
+      "content_index": 10,
+      "offset": 9,
+      "char": "遗",
+      "context": "箫管有遗声",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "버리다·남기다·남겨진 것의 遺. 廣韻 以追切 失也亡也 및 遺失·遺留 용법. 증여의 以醉切와 구별하며 증여 문맥은 보류.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933f95faa16974855855b2eda42",
+      "content_index": 8,
+      "offset": 2,
+      "char": "陈",
+      "context": "击钟陈鼎食",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "진술·진열 또는 陳王·陳完 인명. 廣韻 直珍切 陳列張布姓; 直刃切는 자서의 同陣 軍伍行列也와 대조.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933a644b67c2f683caf45f2b2e1",
+      "content_index": 7,
+      "offset": 2,
+      "char": "障",
+      "context": "连钱障泥渡水骑",
+      "tone": "去",
+      "pingze": "仄",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "방어시설 亭障·乘障 및 말안장의 障泥 명사. 廣韻 之亮切 界也步障; 諸良切 隔也와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933a644b67c951f798686fcb3c8",
+      "content_index": 1,
+      "offset": 9,
+      "char": "弹",
+      "context": "中散未弹琴",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "琴을 타다·巾을 털다의 동사 彈. 廣韻 徒干切 彈射 및 자서 琴瑟·彈冠 용법과 대조. 탄환 명사 徒案切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933a644b67c951f798686fcb3c8",
+      "content_index": 20,
+      "offset": 9,
+      "char": "陈",
+      "context": "羁旅接陈完",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "진술·진열 또는 陳王·陳完 인명. 廣韻 直珍切 陳列張布姓; 直刃切는 자서의 同陣 軍伍行列也와 대조.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933a644b67c951f798686fcb3c8",
+      "content_index": 155,
+      "offset": 3,
+      "char": "障",
+      "context": "萧条亭障远",
+      "tone": "去",
+      "pingze": "仄",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "방어시설 亭障·乘障 및 말안장의 障泥 명사. 廣韻 之亮切 界也步障; 諸良切 隔也와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b587933a644b67c305ecd06b2939349",
+      "content_index": 2,
+      "offset": 0,
+      "char": "弹",
+      "context": "弹琴蜀郡卓家女",
+      "tone": "平",
+      "pingze": "平",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "琴을 타다·巾을 털다의 동사 彈. 廣韻 徒干切 彈射 및 자서 琴瑟·彈冠 용법과 대조. 탄환 명사 徒案切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b5879335b359f73b8c99ff4e3e2189e",
+      "content_index": 9,
+      "offset": 9,
+      "char": "胜",
+      "context": "犹胜边地胡笳声",
+      "tone": "去",
+      "pingze": "仄",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "이기다·능가하다 또는 뛰어남의 勝. 廣韻 詩證切와 康熙字典 勝負·優過에 근거. 감당하다 識蒸切와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    },
+    {
+      "poem_id": "7b5879335b359f738ef0177210e29d98",
+      "content_index": 1,
+      "offset": 7,
+      "char": "障",
+      "context": "亭障绕黄河",
+      "tone": "去",
+      "pingze": "仄",
+      "possible_tones": [
+        "平",
+        "去"
+      ],
+      "method": "context_exact",
+      "reason": "방어시설 亭障·乘障 및 말안장의 障泥 명사. 廣韻 之亮切 界也步障; 諸良切 隔也와 구별.",
+      "initial_tone": "□",
+      "initial_pingze": "□",
+      "status": "resolved"
+    }
+  ],
+  "outcomes": {
+    "resolved": 53
+  }
+}

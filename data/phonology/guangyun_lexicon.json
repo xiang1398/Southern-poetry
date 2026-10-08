@@ -14807,19 +14807,9 @@
         "source": "nk2028",
         "printed_head": "雨",
         "head": "雨"
-      },
-      {
-        "tone": "入",
-        "fanqie": "親吉",
-        "gloss": "俗",
-        "rime": "質",
-        "position": "清開三真入",
-        "id": "3291",
-        "source": "nk2028",
-        "printed_head": "⿱芖雨",
-        "head": "雨"
       }
-    ]
+    ],
+    "variant_note": "IDS 합성자 표기의 구성 요소는 독립 자두가 아니므로 제외함. 원문 자형은 보존."
   },
   "滴": {
     "forms": [
@@ -22692,17 +22682,6 @@
         "head": "正"
       },
       {
-        "tone": "上",
-        "fanqie": "之郢",
-        "gloss": "俗",
-        "rime": "靜",
-        "position": "章開三清上",
-        "id": "1883",
-        "source": "nk2028",
-        "printed_head": "⿱𱡘正",
-        "head": "正"
-      },
-      {
         "tone": "去",
         "fanqie": "之盛",
         "gloss": "正當也長也定也平也是也君也亦姓左傳宋上卿正考父之後魏志有永昌太守正帛又漢複姓漢有郎中正令宮又之盈切",
@@ -22713,7 +22692,8 @@
         "printed_head": "正",
         "head": "正"
       }
-    ]
+    ],
+    "variant_note": "IDS 합성자 표기의 구성 요소는 독립 자두가 아니므로 제외함. 원문 자형은 보존."
   },
   "鳷": {
     "forms": [
@@ -59795,9 +59775,22 @@
   },
   "𨏼": {
     "forms": [
-      "𨏼"
+      "𨏼",
+      "轥"
     ],
-    "entries": []
+    "entries": [
+      {
+        "tone": "去",
+        "fanqie": "良刃",
+        "gloss": "轥轢車踐",
+        "rime": "震",
+        "position": "來開三真去",
+        "id": "2555",
+        "source": "nk2028",
+        "printed_head": "轥"
+      }
+    ],
+    "variant_note": "𨏼=轥 이체; 車踐 의미. 구성 요소별 독음 합류 금지. https://zdic.net/hant/轥"
   },
   "轹": {
     "forms": [
@@ -66715,9 +66708,22 @@
   },
   "枤": {
     "forms": [
-      "枤"
+      "枤",
+      "杕"
     ],
-    "entries": []
+    "entries": [
+      {
+        "tone": "去",
+        "fanqie": "特計",
+        "gloss": "木盛皃",
+        "rime": "霽",
+        "position": "定開四齊去",
+        "id": "2365",
+        "source": "nk2028",
+        "printed_head": "杕"
+      }
+    ],
+    "variant_note": "枤=杕 이체; 杕杜 시경의 고목 용례. 舵 正船木 항목과 구별. https://zdic.net/hans/杕"
   },
   "貂": {
     "forms": [

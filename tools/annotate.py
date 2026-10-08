@@ -116,7 +116,7 @@ def main():
     original = [{k:v for k,v in poem.items() if k not in ('tone_annotations','tone_annotation_version')} for poem in corpus]
     source_hash = hashlib.sha256(json.dumps(original,ensure_ascii=False,sort_keys=True).encode()).hexdigest()
     for poem in corpus:
-        poem['tone_annotation_version'] = '2026-10-08-rebuilt-v1'
+        poem['tone_annotation_version'] = '2026-10-08-reviewed-v3'
         annotations = []
         for paragraph_index, text in enumerate(poem['content']):
             excluded, units = spans(text)
@@ -142,7 +142,9 @@ def main():
                         selected,method,reason = choose(char,context,pos,rules,readings+extra)
                         if selected != '□':
                             assert selected in options, (char,context,selected,options)
-                    if selected=='□':method='unresolved'
+                    if selected=='□':
+                        method='unresolved'
+                        reason=rules.get('holds',{}).get(char,{}).get('reason',reason)
                     tones[offset] = selected
                     binary[offset] = ('平' if selected=='平' else '仄') if selected!='□' else pz(options)
                     counts[method] += 1
@@ -159,6 +161,47 @@ def main():
             assert len(tones)==len(text)==len(binary)
         poem['tone_annotations'] = annotations
     pending=apply_rhyme(corpus,lex,pending,decisions,counts)
+    review_path=PHON/'remaining_review.json'
+    if review_path.exists():
+        review=load(review_path)
+        poems={p['id']:p for p in corpus}
+        ledger={(r['poem_id'],r['content_index'],r['offset']):r for r in decisions+pending}
+        outcomes=Counter()
+        for row in review['token_reviews']:
+            poem=poems[row['poem_id']]
+            pi,offset=row['content_index'],row['offset']
+            assert poem['content'][pi][offset]==row['char'],row
+            annotation=poem['tone_annotations'][pi]
+            row.setdefault('initial_pingze',row.pop('pingze',None))
+            row['four_tones']=annotation['four_tones'][offset]
+            row['final_pingze']=annotation['pingze'][offset]
+            row['status']='resolved' if row['four_tones']!='□' else 'held'
+            detail=ledger.get((row['poem_id'],pi,offset))
+            row['method']=detail['method'] if detail else 'single_reading_or_tone'
+            row['reason']=(detail['reason'] if row['status']=='resolved' else 'character_reviews의 해당 글자 hold_reason 참조') if detail else '재검증한 자형 대응의 사전 성조가 단일함'
+            outcomes[row['status']]+=1
+        assert len(review['token_reviews'])==3743
+        review['outcomes']=dict(outcomes)
+        save(review_path,review)
+    for followup_path in [PHON/'followup_review.json', *sorted(PHON.glob('batch*_review.json'))]:
+        if not followup_path.exists():continue
+        review=load(followup_path)
+        ledger={(r['poem_id'],r['content_index'],r['offset']):r for r in decisions+pending}
+        outcomes=Counter()
+        token_reviews=[]
+        for initial in review['before_tokens']:
+            loc=(initial['poem_id'],initial['content_index'],initial['offset'])
+            final=ledger[loc]
+            row={**initial,'initial_tone':initial['tone'],'initial_pingze':initial['pingze'],
+                 'tone':final['tone'],'pingze':final['pingze'],'method':final['method'],
+                 'reason':final['reason'],'status':'held' if final['tone']=='□' else 'resolved'}
+            if final.get('rhyme_support'):row['rhyme_support']=final['rhyme_support']
+            token_reviews.append(row)
+            outcomes[row['status']]+=1
+        review['token_reviews']=token_reviews
+        review['outcomes']=dict(outcomes)
+        assert len(token_reviews)==review['initial_pending_tokens']
+        save(followup_path,review)
     output_text=[]
     for poem in corpus:
         output_text.append(f"# {poem['authorName']} · {poem['title']} [{poem['id']}]\n")
