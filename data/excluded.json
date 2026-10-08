@@ -591,63 +591,6 @@
     "selection_status": "excluded"
   },
   {
-    "id": "7b5879335b359f73b8c99ff4e3e2189e",
-    "title": "燕歌行",
-    "authorName": "王褒",
-    "authorId": "7b5879335b359f733dc4876fa7aeed74",
-    "dynasty": "南北朝",
-    "content": [
-      "初春丽晃莺欲娇，桃花流水没河桥。",
-      "蔷薇花开百重叶，杨柳拂地数千条。",
-      "陇西将军号都护，楼兰校尉称嫖姚。",
-      "自从昔别春燕分，经年一去不相闻。",
-      "无复汉地关山月，唯有漠北蓟城云。",
-      "淮南桂中明月影，流黄机上织成文。",
-      "充国行军屡筑营，阳史讨虏陷平城。",
-      "城下风多能却阵，沙中雪浅讵停兵。",
-      "属国小妇犹年少，羽林轻骑数征行。",
-      "遥闻陌头采桑曲，犹胜边地胡笳声。",
-      "胡笳向暮使人泣，长望闺中空伫立。",
-      "桃花落地杏花舒，桐生井底寒叶疏。",
-      "试为来看上林雁，应有遥寄陇头书。"
-    ],
-    "source_repository": "snowtraces/poetry-source",
-    "source_path": "source/诗/南北朝/poetry.南北朝.0000.base.json",
-    "selection_status": "excluded"
-  },
-  {
-    "id": "7b5879335b359f73ee665671ac5f66a7",
-    "title": "关山月",
-    "authorName": "王褒",
-    "authorId": "7b5879335b359f733dc4876fa7aeed74",
-    "dynasty": "南北朝",
-    "content": [
-      "关山夜月明，秋色照孤城。",
-      "影亏同汉阵，轮满逐胡兵。",
-      "天寒光转白，风多晕欲生。",
-      "寄言亭上吏，游客解鸡鸣。"
-    ],
-    "source_repository": "snowtraces/poetry-source",
-    "source_path": "source/诗/南北朝/poetry.南北朝.0000.base.json",
-    "selection_status": "excluded"
-  },
-  {
-    "id": "7b5879335b359f738ef0177210e29d98",
-    "title": "渡河北",
-    "authorName": "王褒",
-    "authorId": "7b5879335b359f733dc4876fa7aeed74",
-    "dynasty": "南北朝",
-    "content": [
-      "秋风吹木叶，还似洞庭波。",
-      "常山临代郡，亭障绕黄河。",
-      "心悲异方乐，肠断陇头歌。",
-      "薄暮临征马，失道北山阿。"
-    ],
-    "source_repository": "snowtraces/poetry-source",
-    "source_path": "source/诗/南北朝/poetry.南北朝.0000.base.json",
-    "selection_status": "excluded"
-  },
-  {
     "id": "7b5879335b883b2b80d9f7bbaadda791",
     "title": "春日诗",
     "authorName": "阳休之",
