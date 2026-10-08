@@ -122,6 +122,30 @@
   {
     "poem_id": "7b5879330c2d7c44dd868691493473ac",
     "content_index": 2,
+    "offset": 0,
+    "char": "出",
+    "context": "出没花中见",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879330c2d7c44dd868691493473ac",
+    "content_index": 2,
     "offset": 3,
     "char": "中",
     "context": "出没花中见",
@@ -1334,6 +1358,30 @@
   },
   {
     "poem_id": "7b5879330c2d7c44aa63b6b357663872",
+    "content_index": 2,
+    "offset": 4,
+    "char": "出",
+    "context": "迁乔声迥出",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879330c2d7c44aa63b6b357663872",
     "content_index": 3,
     "offset": 0,
     "char": "下",
@@ -2478,6 +2526,32 @@
         "fanqie": "分勿",
         "source": "nk2028",
         "id": "3341"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879330c2d7c443dfbda788a469b3b",
+    "content_index": 13,
+    "offset": 6,
+    "char": "比",
+    "context": "比质非所任",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "平",
+      "上",
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "비교·비유·견줌의 比. 廣韻 卑履切 校也 및 康熙字典의 類也/方也/比方 풀이로 복원. 나란함·가까움·연속의 다른 성조와 구별.",
+    "supporting_entries": [
+      {
+        "head": "比",
+        "tone": "上",
+        "fanqie": "卑履",
+        "source": "nk2028",
+        "id": "1258"
       }
     ]
   },
@@ -3920,6 +3994,32 @@
   {
     "poem_id": "7b5879330c2d7c443dfbda788a469b3b",
     "content_index": 43,
+    "offset": 7,
+    "char": "比",
+    "context": "聊比化城乐",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "平",
+      "上",
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "비교·비유·견줌의 比. 廣韻 卑履切 校也 및 康熙字典의 類也/方也/比方 풀이로 복원. 나란함·가까움·연속의 다른 성조와 구별.",
+    "supporting_entries": [
+      {
+        "head": "比",
+        "tone": "上",
+        "fanqie": "卑履",
+        "source": "nk2028",
+        "id": "1258"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879330c2d7c443dfbda788a469b3b",
+    "content_index": 43,
     "offset": 10,
     "char": "乐",
     "context": "聊比化城乐",
@@ -4882,6 +4982,32 @@
         "fanqie": "七也",
         "source": "nk2028",
         "id": "1776"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879330c2d7c445cf89a3207a0e975",
+    "content_index": 1,
+    "offset": 8,
+    "char": "比",
+    "context": "畏欲比残桃",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "平",
+      "上",
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "비교·비유·견줌의 比. 廣韻 卑履切 校也 및 康熙字典의 類也/方也/比方 풀이로 복원. 나란함·가까움·연속의 다른 성조와 구별.",
+    "supporting_entries": [
+      {
+        "head": "比",
+        "tone": "上",
+        "fanqie": "卑履",
+        "source": "nk2028",
+        "id": "1258"
       }
     ]
   },
@@ -7077,6 +7203,30 @@
   {
     "poem_id": "7b587933195270804f57a8611308b714",
     "content_index": 1,
+    "offset": 4,
+    "char": "出",
+    "context": "薄云岩际出",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933195270804f57a8611308b714",
+    "content_index": 1,
     "offset": 9,
     "char": "中",
     "context": "初月波中上",
@@ -7674,6 +7824,30 @@
         "fanqie": "古閑",
         "source": "nk2028",
         "id": "556"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879331952708091e810da077b3f3e",
+    "content_index": 1,
+    "offset": 6,
+    "char": "苦",
+    "context": "苦雾黑晨流",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
       }
     ]
   },
@@ -8863,6 +9037,30 @@
         "fanqie": "苦紅",
         "source": "nk2028",
         "id": "21"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b58793319527080676f147326fbf2b3",
+    "content_index": 2,
+    "offset": 8,
+    "char": "出",
+    "context": "双凫出浪飞",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -11318,6 +11516,30 @@
   },
   {
     "poem_id": "7b58793319527080825c7948fc56ed70",
+    "content_index": 0,
+    "offset": 3,
+    "char": "出",
+    "context": "雾夕莲出水",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b58793319527080825c7948fc56ed70",
     "content_index": 1,
     "offset": 0,
     "char": "何",
@@ -11478,6 +11700,30 @@
         "fanqie": "古黃",
         "source": "nk2028",
         "id": "846"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b58793319527080825c7948fc56ed70",
+    "content_index": 3,
+    "offset": 8,
+    "char": "出",
+    "context": "环佩出长廊",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -13915,6 +14161,30 @@
   {
     "poem_id": "7b5879332769d0d3ff56836a7bfb5017",
     "content_index": 0,
+    "offset": 2,
+    "char": "苦",
+    "context": "戚戚苦无悰",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879332769d0d3ff56836a7bfb5017",
+    "content_index": 0,
     "offset": 8,
     "char": "共",
     "context": "携手共行乐",
@@ -14327,6 +14597,30 @@
         "fanqie": "古莧",
         "source": "nk2028",
         "id": "2685"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879332769d0d3435b723bf6b08504",
+    "content_index": 1,
+    "offset": 6,
+    "char": "出",
+    "context": "出入春凫雏",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -18877,6 +19171,30 @@
   },
   {
     "poem_id": "7b5879332cf88b953c9ebabbafd73053",
+    "content_index": 13,
+    "offset": 4,
+    "char": "作",
+    "context": "小妇无所作",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "행함·됨·일어남·꽃/열매를 냄의 作. 廣韻 則落切 爲也/起也/行也/生也로 문맥 판독. 작곡·제조처럼 造也의 거성 후보와 직접 겹치는 용례는 별도 보류.",
+    "supporting_entries": [
+      {
+        "head": "作",
+        "tone": "入",
+        "fanqie": "則落",
+        "source": "nk2028",
+        "id": "3574"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879332cf88b953c9ebabbafd73053",
     "content_index": 14,
     "offset": 2,
     "char": "且",
@@ -19416,6 +19734,30 @@
   },
   {
     "poem_id": "7b5879332cf88b95a0003789c8f1bd1e",
+    "content_index": 8,
+    "offset": 7,
+    "char": "苦",
+    "context": "词苦声亦凄",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879332cf88b95a0003789c8f1bd1e",
     "content_index": 9,
     "offset": 0,
     "char": "上",
@@ -19739,6 +20081,30 @@
   {
     "poem_id": "7b5879332fca073da269eb023551825c",
     "content_index": 0,
+    "offset": 3,
+    "char": "出",
+    "context": "自君之出矣",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879332fca073da269eb023551825c",
+    "content_index": 0,
     "offset": 8,
     "char": "咽",
     "context": "罗帐咽秋风",
@@ -19910,6 +20276,30 @@
   {
     "poem_id": "7b5879332fca073d29b618f9f5fa51a8",
     "content_index": 0,
+    "offset": 7,
+    "char": "作",
+    "context": "长作经时别",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "행함·됨·일어남·꽃/열매를 냄의 作. 廣韻 則落切 爲也/起也/行也/生也로 문맥 판독. 작곡·제조처럼 造也의 거성 후보와 직접 겹치는 용례는 별도 보류.",
+    "supporting_entries": [
+      {
+        "head": "作",
+        "tone": "入",
+        "fanqie": "則落",
+        "source": "nk2028",
+        "id": "3574"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879332fca073d29b618f9f5fa51a8",
+    "content_index": 0,
     "offset": 8,
     "char": "经",
     "context": "长作经时别",
@@ -20052,6 +20442,30 @@
         "fanqie": "敷空",
         "source": "nk2028",
         "id": "18"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879332fca073d485b844f81f6394f",
+    "content_index": 0,
+    "offset": 8,
+    "char": "出",
+    "context": "候雁出云中",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -20794,6 +21208,30 @@
         "fanqie": "況于",
         "source": "nk2028",
         "id": "254"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879332fca073daa8d27ab79cd2b35",
+    "content_index": 5,
+    "offset": 4,
+    "char": "苦",
+    "context": "何吁畚筑苦",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
       }
     ]
   },
@@ -22386,6 +22824,30 @@
   },
   {
     "poem_id": "7b587933321d5f3d0f1a054037dfd9a8",
+    "content_index": 5,
+    "offset": 2,
+    "char": "出",
+    "context": "簪玉出北房",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933321d5f3d0f1a054037dfd9a8",
     "content_index": 6,
     "offset": 7,
     "char": "长",
@@ -23306,6 +23768,44 @@
         "fanqie": "七也",
         "source": "nk2028",
         "id": "1776"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933321d5f3d7dbae064093c3048",
+    "content_index": 9,
+    "offset": 7,
+    "char": "从",
+    "context": "且从性所玩",
+    "tone": "平",
+    "pingze": "平",
+    "possible_tones": [
+      "平",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "성정·뜻·일을 따르거나 어느 선택을 좇을지의 從. 廣韻 疾容切 相聽也/就也와 康熙字典 從諫 풀이로 판독; 실제 이동하며 수행하는 隨行의 평·거 중복 문맥은 보류.",
+    "supporting_entries": [
+      {
+        "head": "从",
+        "tone": "平",
+        "fanqie": "疾容",
+        "source": "nk2028",
+        "id": "57"
+      },
+      {
+        "head": "從",
+        "tone": "平",
+        "fanqie": "疾容",
+        "source": "nk2028",
+        "id": "57"
+      },
+      {
+        "head": "從",
+        "tone": "平",
+        "fanqie": "七恭",
+        "source": "nk2028",
+        "id": "67"
       }
     ]
   },
@@ -24236,6 +24736,37 @@
         "fanqie": "方戎",
         "source": "nk2028",
         "id": "17"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933321d5f3de3ec0ff943a456f5",
+    "content_index": 17,
+    "offset": 0,
+    "char": "零",
+    "context": "零雨润坟泽",
+    "tone": "平",
+    "pingze": "平",
+    "possible_tones": [
+      "平",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "零雨는 가늘게 내리는 비. 廣韻 郎丁切 徐雨也의 직접 의미 대응. 평성과 거성에 모두 보이는 零落 용례와 구별.",
+    "supporting_entries": [
+      {
+        "head": "零",
+        "tone": "平",
+        "fanqie": "落賢",
+        "source": "nk2028",
+        "id": "583"
+      },
+      {
+        "head": "零",
+        "tone": "平",
+        "fanqie": "郎丁",
+        "source": "nk2028",
+        "id": "939"
       }
     ]
   },
@@ -25789,6 +26320,37 @@
   {
     "poem_id": "7b58793334fd517763faad908127151c",
     "content_index": 22,
+    "offset": 1,
+    "char": "零",
+    "context": "咏零雨而卒岁",
+    "tone": "平",
+    "pingze": "平",
+    "possible_tones": [
+      "平",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "零雨는 가늘게 내리는 비. 廣韻 郎丁切 徐雨也의 직접 의미 대응. 평성과 거성에 모두 보이는 零落 용례와 구별.",
+    "supporting_entries": [
+      {
+        "head": "零",
+        "tone": "平",
+        "fanqie": "落賢",
+        "source": "nk2028",
+        "id": "583"
+      },
+      {
+        "head": "零",
+        "tone": "平",
+        "fanqie": "郎丁",
+        "source": "nk2028",
+        "id": "939"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b58793334fd517763faad908127151c",
+    "content_index": 22,
     "offset": 2,
     "char": "雨",
     "context": "咏零雨而卒岁",
@@ -26694,6 +27256,30 @@
   {
     "poem_id": "7b58793334fd51776f2681bcbac66383",
     "content_index": 0,
+    "offset": 257,
+    "char": "作",
+    "context": "磬埏作瑞",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "행함·됨·일어남·꽃/열매를 냄의 作. 廣韻 則落切 爲也/起也/行也/生也로 문맥 판독. 작곡·제조처럼 造也의 거성 후보와 직접 겹치는 용례는 별도 보류.",
+    "supporting_entries": [
+      {
+        "head": "作",
+        "tone": "入",
+        "fanqie": "則落",
+        "source": "nk2028",
+        "id": "3574"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b58793334fd51776f2681bcbac66383",
+    "content_index": 0,
     "offset": 260,
     "char": "调",
     "context": "调露之乐既兴",
@@ -26928,6 +27514,30 @@
         "fanqie": "奴登",
         "source": "nk2028",
         "id": "980"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d4562becf0a0a5a39eec1",
+    "content_index": 0,
+    "offset": 6,
+    "char": "苦",
+    "context": "苦此夜难颓",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
       }
     ]
   },
@@ -28345,6 +28955,30 @@
         "fanqie": "奴登",
         "source": "nk2028",
         "id": "980"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d4562a29f0fbe036aef35",
+    "content_index": 2,
+    "offset": 0,
+    "char": "出",
+    "context": "出谷日尚早",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -30590,6 +31224,30 @@
         "fanqie": "之日",
         "source": "nk2028",
         "id": "3285"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d4562d458345382f3b4ad",
+    "content_index": 46,
+    "offset": 4,
+    "char": "苦",
+    "context": "已免负薪苦",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
       }
     ]
   },
@@ -33055,6 +33713,30 @@
   },
   {
     "poem_id": "7b587933367d456230affb3fd65b2cb2",
+    "content_index": 2,
+    "offset": 4,
+    "char": "苦",
+    "context": "久痗昏垫苦",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d456230affb3fd65b2cb2",
     "content_index": 3,
     "offset": 2,
     "char": "渐",
@@ -33875,6 +34557,30 @@
   },
   {
     "poem_id": "7b587933367d456276257a48f443c37e",
+    "content_index": 1,
+    "offset": 8,
+    "char": "苦",
+    "context": "徒旅苦奔峭",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d456276257a48f443c37e",
     "content_index": 2,
     "offset": 1,
     "char": "浅",
@@ -34101,6 +34807,30 @@
         "fanqie": "徒弔",
         "source": "nk2028",
         "id": "2762"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d45626e481b92e1b3e2d1",
+    "content_index": 0,
+    "offset": 1,
+    "char": "出",
+    "context": "步出西城门",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -37205,6 +37935,30 @@
     ]
   },
   {
+    "poem_id": "7b587933367d456248478cd743a365a7",
+    "content_index": 1,
+    "offset": 6,
+    "char": "苦",
+    "context": "苦哉有余酸",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
+      }
+    ]
+  },
+  {
     "poem_id": "7b587933367d4562bf0d0c79d477b5c3",
     "content_index": 0,
     "offset": 1,
@@ -37767,6 +38521,30 @@
   {
     "poem_id": "7b587933367d4562874ea365dc146024",
     "content_index": 4,
+    "offset": 7,
+    "char": "苦",
+    "context": "情苦忧来早",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d4562874ea365dc146024",
+    "content_index": 4,
     "offset": 8,
     "char": "忧",
     "context": "情苦忧来早",
@@ -38246,6 +39024,44 @@
   {
     "poem_id": "7b587933367d4562874ea365dc146024",
     "content_index": 11,
+    "offset": 4,
+    "char": "从",
+    "context": "千计莫适从",
+    "tone": "平",
+    "pingze": "平",
+    "possible_tones": [
+      "平",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "성정·뜻·일을 따르거나 어느 선택을 좇을지의 從. 廣韻 疾容切 相聽也/就也와 康熙字典 從諫 풀이로 판독; 실제 이동하며 수행하는 隨行의 평·거 중복 문맥은 보류.",
+    "supporting_entries": [
+      {
+        "head": "从",
+        "tone": "平",
+        "fanqie": "疾容",
+        "source": "nk2028",
+        "id": "57"
+      },
+      {
+        "head": "從",
+        "tone": "平",
+        "fanqie": "疾容",
+        "source": "nk2028",
+        "id": "57"
+      },
+      {
+        "head": "從",
+        "tone": "平",
+        "fanqie": "七恭",
+        "source": "nk2028",
+        "id": "67"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d4562874ea365dc146024",
+    "content_index": 11,
     "offset": 6,
     "char": "万",
     "context": "万端信纷绕",
@@ -38599,6 +39415,30 @@
         "fanqie": "胡歌",
         "source": "nk2028",
         "id": "735"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d45626a92ee0e95fb64e2",
+    "content_index": 0,
+    "offset": 2,
+    "char": "出",
+    "context": "骚屑出穴风",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -40414,6 +41254,30 @@
   },
   {
     "poem_id": "7b587933367d456282e8477227a4e0a7",
+    "content_index": 13,
+    "offset": 2,
+    "char": "出",
+    "context": "范蠡出江湖",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d456282e8477227a4e0a7",
     "content_index": 14,
     "offset": 7,
     "char": "鸿",
@@ -40553,6 +41417,30 @@
         "fanqie": "方戎",
         "source": "nk2028",
         "id": "17"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d4562eb5e2a7865076dbd",
+    "content_index": 2,
+    "offset": 8,
+    "char": "出",
+    "context": "霄明出河洲",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -41210,6 +42098,30 @@
   {
     "poem_id": "7b587933367d4562b39f5892e8caf49d",
     "content_index": 0,
+    "offset": 0,
+    "char": "出",
+    "context": "出西门",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d4562b39f5892e8caf49d",
+    "content_index": 0,
     "offset": 6,
     "char": "间",
     "context": "眺云间",
@@ -41527,6 +42439,30 @@
   {
     "poem_id": "7b587933367d45629359068e90be0678",
     "content_index": 0,
+    "offset": 2,
+    "char": "出",
+    "context": "薄游出彼东道",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d45629359068e90be0678",
+    "content_index": 0,
     "offset": 8,
     "char": "留",
     "context": "上留田",
@@ -41545,6 +42481,30 @@
         "fanqie": "力求",
         "source": "nk2028",
         "id": "988"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d45629359068e90be0678",
+    "content_index": 1,
+    "offset": 2,
+    "char": "出",
+    "context": "薄游出彼东道",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -44751,6 +45711,30 @@
   },
   {
     "poem_id": "7b587933367d45624985227be1e61328",
+    "content_index": 1,
+    "offset": 6,
+    "char": "作",
+    "context": "以作僚士",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "행함·됨·일어남·꽃/열매를 냄의 作. 廣韻 則落切 爲也/起也/行也/生也로 문맥 판독. 작곡·제조처럼 造也의 거성 후보와 직접 겹치는 용례는 별도 보류.",
+    "supporting_entries": [
+      {
+        "head": "作",
+        "tone": "入",
+        "fanqie": "則落",
+        "source": "nk2028",
+        "id": "3574"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d45624985227be1e61328",
     "content_index": 3,
     "offset": 1,
     "char": "将",
@@ -47892,6 +48876,30 @@
   },
   {
     "poem_id": "7b587933367d456238b51e026848a5c1",
+    "content_index": 0,
+    "offset": 4,
+    "char": "苦",
+    "context": "季秋边朔苦",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d456238b51e026848a5c1",
     "content_index": 1,
     "offset": 9,
     "char": "潭",
@@ -48703,6 +49711,30 @@
   },
   {
     "poem_id": "7b587933367d4562efb6a62ed6bb06a4",
+    "content_index": 2,
+    "offset": 1,
+    "char": "苦",
+    "context": "辛苦谁为情",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d4562efb6a62ed6bb06a4",
     "content_index": 4,
     "offset": 1,
     "char": "何",
@@ -49134,6 +50166,30 @@
         "fanqie": "即良",
         "source": "nk2028",
         "id": "820"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d45620806540dd03cd8b3",
+    "content_index": 0,
+    "offset": 2,
+    "char": "出",
+    "context": "祗役出皇邑",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -50134,6 +51190,30 @@
         "fanqie": "許建",
         "source": "nk2028",
         "id": "2604"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d456223cddc056437cea4",
+    "content_index": 0,
+    "offset": 8,
+    "char": "出",
+    "context": "白日出悠悠",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -52754,6 +53834,30 @@
   {
     "poem_id": "7b587933367d4562660bec4922e1a8ec",
     "content_index": 4,
+    "offset": 1,
+    "char": "苦",
+    "context": "羁苦孰云慰",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d4562660bec4922e1a8ec",
+    "content_index": 4,
     "offset": 6,
     "char": "观",
     "context": "观海藉朝风",
@@ -53639,6 +54743,30 @@
         "fanqie": "側魚",
         "source": "nk2028",
         "id": "247"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d4562dd237e92c168110e",
+    "content_index": 5,
+    "offset": 4,
+    "char": "苦",
+    "context": "既笑沮溺苦",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
       }
     ]
   },
@@ -56736,6 +57864,30 @@
   {
     "poem_id": "7b587933367d45625e8ea917841362e8",
     "content_index": 4,
+    "offset": 0,
+    "char": "出",
+    "context": "出宿薄京畿",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d45625e8ea917841362e8",
+    "content_index": 4,
     "offset": 1,
     "char": "宿",
     "context": "出宿薄京畿",
@@ -57600,6 +58752,30 @@
         "fanqie": "直良",
         "source": "nk2028",
         "id": "815"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933367d4562fc2d672d03838a05",
+    "content_index": 6,
+    "offset": 7,
+    "char": "苦",
+    "context": "常苦夏日短",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
       }
     ]
   },
@@ -61764,6 +62940,32 @@
   },
   {
     "poem_id": "7b58793341234918c4e182d5a6bc3b67",
+    "content_index": 5,
+    "offset": 12,
+    "char": "比",
+    "context": "莫持奢用比悬河",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "平",
+      "上",
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "비교·비유·견줌의 比. 廣韻 卑履切 校也 및 康熙字典의 類也/方也/比方 풀이로 복원. 나란함·가까움·연속의 다른 성조와 구별.",
+    "supporting_entries": [
+      {
+        "head": "比",
+        "tone": "上",
+        "fanqie": "卑履",
+        "source": "nk2028",
+        "id": "1258"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b58793341234918c4e182d5a6bc3b67",
     "content_index": 7,
     "offset": 0,
     "char": "沙",
@@ -64477,6 +65679,30 @@
   {
     "poem_id": "7b587933471e9d47dc2ead3737734ac5",
     "content_index": 19,
+    "offset": 9,
+    "char": "出",
+    "context": "一麾乃出守",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933471e9d47dc2ead3737734ac5",
+    "content_index": 19,
     "offset": 10,
     "char": "守",
     "context": "一麾乃出守",
@@ -64999,6 +66225,30 @@
   {
     "poem_id": "7b5879334f307ee658e52989e1f84a18",
     "content_index": 6,
+    "offset": 1,
+    "char": "苦",
+    "context": "二苦常追随",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879334f307ee658e52989e1f84a18",
+    "content_index": 6,
     "offset": 6,
     "char": "三",
     "context": "三毒自烧然",
@@ -65358,6 +66608,30 @@
         "fanqie": "初牙",
         "source": "nk2028",
         "id": "783"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879334f307ee658e52989e1f84a18",
+    "content_index": 13,
+    "offset": 6,
+    "char": "出",
+    "context": "出云去连绵",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -69141,6 +70415,30 @@
   {
     "poem_id": "7b58793361c1054854b6658c7aa844ab",
     "content_index": 0,
+    "offset": 7,
+    "char": "苦",
+    "context": "辛苦客方行",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b58793361c1054854b6658c7aa844ab",
+    "content_index": 0,
     "offset": 10,
     "char": "行",
     "context": "辛苦客方行",
@@ -70613,6 +71911,30 @@
   },
   {
     "poem_id": "7b58793361c1054896a3e519aa6acf20",
+    "content_index": 1,
+    "offset": 9,
+    "char": "作",
+    "context": "云昏不作峰",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "행함·됨·일어남·꽃/열매를 냄의 作. 廣韻 則落切 爲也/起也/行也/生也로 문맥 판독. 작곡·제조처럼 造也의 거성 후보와 직접 겹치는 용례는 별도 보류.",
+    "supporting_entries": [
+      {
+        "head": "作",
+        "tone": "入",
+        "fanqie": "則落",
+        "source": "nk2028",
+        "id": "3574"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b58793361c1054896a3e519aa6acf20",
     "content_index": 2,
     "offset": 0,
     "char": "远",
@@ -71490,6 +72812,37 @@
         "fanqie": "無販",
         "source": "nk2028",
         "id": "2599"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b58793367f2c9ec0a108699228d88cb",
+    "content_index": 0,
+    "offset": 19,
+    "char": "脸",
+    "context": "曼脸若桃红",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "平",
+      "上"
+    ],
+    "method": "context_exact",
+    "reason": "臉/脸은 여인의 뺨·얼굴. 集韻 卷六 上聲下 四庫本 62a 檢小韻 居奄切 臉頰也를 보충하고 康熙字典 인용과 대조. 廣韻 七廉切 평성 및 力減切 상성의 음식 臉䑎과 구별.",
+    "supporting_entries": [
+      {
+        "head": "臉",
+        "tone": "上",
+        "fanqie": "力減",
+        "source": "nk2028",
+        "id": "2070"
+      },
+      {
+        "head": "臉",
+        "tone": "上",
+        "fanqie": "居奄",
+        "source": "集韻 Kanripo KR1j0057",
+        "id": null
       }
     ]
   },
@@ -76708,6 +78061,30 @@
   },
   {
     "poem_id": "7b5879337fe0875dff85a5459ed9361d",
+    "content_index": 15,
+    "offset": 5,
+    "char": "出",
+    "context": "隐岩崖而半出",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879337fe0875dff85a5459ed9361d",
     "content_index": 17,
     "offset": 0,
     "char": "闲",
@@ -79217,6 +80594,30 @@
   {
     "poem_id": "7b5879337fe0875dd2e3c17a360bf61f",
     "content_index": 2,
+    "offset": 1,
+    "char": "出",
+    "context": "本出龙门山",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879337fe0875dd2e3c17a360bf61f",
+    "content_index": 2,
     "offset": 6,
     "char": "长",
     "context": "长枝仰刺天",
@@ -79868,6 +81269,30 @@
         "fanqie": "苦紅",
         "source": "nk2028",
         "id": "21"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879337fe0875dd2e3c17a360bf61f",
+    "content_index": 15,
+    "offset": 1,
+    "char": "作",
+    "context": "愿作清庙琴",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "행함·됨·일어남·꽃/열매를 냄의 作. 廣韻 則落切 爲也/起也/行也/生也로 문맥 판독. 작곡·제조처럼 造也의 거성 후보와 직접 겹치는 용례는 별도 보류.",
+    "supporting_entries": [
+      {
+        "head": "作",
+        "tone": "入",
+        "fanqie": "則落",
+        "source": "nk2028",
+        "id": "3574"
       }
     ]
   },
@@ -81538,6 +82963,30 @@
         "fanqie": "居狶（豨）",
         "source": "nk2028",
         "id": "1314"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879337fe0875d4fdbb5114022b3e0",
+    "content_index": 3,
+    "offset": 0,
+    "char": "出",
+    "context": "出海涨之苍茫",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -83417,6 +84866,30 @@
   {
     "poem_id": "7b5879337fe0875d2f6a8e4d15070068",
     "content_index": 5,
+    "offset": 1,
+    "char": "出",
+    "context": "路出若溪右",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879337fe0875d2f6a8e4d15070068",
+    "content_index": 5,
     "offset": 2,
     "char": "若",
     "context": "路出若溪右",
@@ -84804,6 +86277,30 @@
         "fanqie": "去盈",
         "source": "nk2028",
         "id": "920"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879337fe0875d4ef643135f96a110",
+    "content_index": 3,
+    "offset": 1,
+    "char": "出",
+    "context": "东出千金堰",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -86812,6 +88309,30 @@
   },
   {
     "poem_id": "7b5879337fe0875d1eb0f38cdb0aec8f",
+    "content_index": 0,
+    "offset": 8,
+    "char": "出",
+    "context": "高顶出南岑",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879337fe0875d1eb0f38cdb0aec8f",
     "content_index": 1,
     "offset": 0,
     "char": "中",
@@ -88084,6 +89605,30 @@
   },
   {
     "poem_id": "7b58793384adb4ebffbfcdc59c4e8f8f",
+    "content_index": 21,
+    "offset": 8,
+    "char": "出",
+    "context": "忽值出房朝",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b58793384adb4ebffbfcdc59c4e8f8f",
     "content_index": 22,
     "offset": 9,
     "char": "丽",
@@ -89151,6 +90696,30 @@
   {
     "poem_id": "7b58793384adb4eb35721f60d77b5229",
     "content_index": 1,
+    "offset": 8,
+    "char": "出",
+    "context": "出帷含态笑相迎",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b58793384adb4eb35721f60d77b5229",
+    "content_index": 1,
     "offset": 13,
     "char": "相",
     "context": "出帷含态笑相迎",
@@ -89169,6 +90738,37 @@
         "fanqie": "息良",
         "source": "nk2028",
         "id": "819"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b58793384adb4eb35721f60d77b5229",
+    "content_index": 2,
+    "offset": 2,
+    "char": "脸",
+    "context": "妖姬脸似花含露",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "平",
+      "上"
+    ],
+    "method": "context_exact",
+    "reason": "臉/脸은 여인의 뺨·얼굴. 集韻 卷六 上聲下 四庫本 62a 檢小韻 居奄切 臉頰也를 보충하고 康熙字典 인용과 대조. 廣韻 七廉切 평성 및 力減切 상성의 음식 臉䑎과 구별.",
+    "supporting_entries": [
+      {
+        "head": "臉",
+        "tone": "上",
+        "fanqie": "力減",
+        "source": "nk2028",
+        "id": "2070"
+      },
+      {
+        "head": "臉",
+        "tone": "上",
+        "fanqie": "居奄",
+        "source": "集韻 Kanripo KR1j0057",
+        "id": null
       }
     ]
   },
@@ -90314,6 +91914,30 @@
   {
     "poem_id": "7b5879338b029cfe6fc2b037097046ba",
     "content_index": 1,
+    "offset": 32,
+    "char": "作",
+    "context": "临八方以作镇",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "행함·됨·일어남·꽃/열매를 냄의 作. 廣韻 則落切 爲也/起也/行也/生也로 문맥 판독. 작곡·제조처럼 造也의 거성 후보와 직접 겹치는 용례는 별도 보류.",
+    "supporting_entries": [
+      {
+        "head": "作",
+        "tone": "入",
+        "fanqie": "則落",
+        "source": "nk2028",
+        "id": "3574"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879338b029cfe6fc2b037097046ba",
+    "content_index": 1,
     "offset": 46,
     "char": "为",
     "context": "厉薄弱以为政",
@@ -90738,6 +92362,31 @@
         "fanqie": "府遠",
         "source": "nk2028",
         "id": "1524"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879338b029cfe6fc2b037097046ba",
+    "content_index": 2,
+    "offset": 110,
+    "char": "只",
+    "context": "寇无反于只轮",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "平",
+      "上",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "只輪은 한 개의 수레바퀴를 뜻하는 隻輪의 간화 표기. 廣韻 之石切 隻의 단일 수량 의미 入聲과 대응; 조사 只의 평·상성 후보와 구별.",
+    "supporting_entries": [
+      {
+        "head": "隻",
+        "tone": "入",
+        "fanqie": "之石",
+        "source": "nk2028",
+        "id": "3656"
       }
     ]
   },
@@ -92558,6 +94207,30 @@
         "fanqie": "居狶（豨）",
         "source": "nk2028",
         "id": "1314"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879338b0887787ce78d041774cb66",
+    "content_index": 6,
+    "offset": 1,
+    "char": "出",
+    "context": "月出柳城东",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -95965,6 +97638,30 @@
   {
     "poem_id": "7b5879339a2e60bbfc988f50e722174e",
     "content_index": 3,
+    "offset": 6,
+    "char": "出",
+    "context": "桃花水上春风出",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b5879339a2e60bbfc988f50e722174e",
+    "content_index": 3,
     "offset": 11,
     "char": "迤",
     "context": "舞袖逶迤鸾照日",
@@ -97813,6 +99510,30 @@
   },
   {
     "poem_id": "7b587933a4905803602c705683edbf02",
+    "content_index": 1,
+    "offset": 13,
+    "char": "苦",
+    "context": "塘上复有辛苦行",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933a4905803602c705683edbf02",
     "content_index": 2,
     "offset": 0,
     "char": "不",
@@ -98857,6 +100578,30 @@
   {
     "poem_id": "7b587933a4905803602c705683edbf02",
     "content_index": 13,
+    "offset": 11,
+    "char": "作",
+    "context": "欲许便作后来薪",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "행함·됨·일어남·꽃/열매를 냄의 作. 廣韻 則落切 爲也/起也/行也/生也로 문맥 판독. 작곡·제조처럼 造也의 거성 후보와 직접 겹치는 용례는 별도 보류.",
+    "supporting_entries": [
+      {
+        "head": "作",
+        "tone": "入",
+        "fanqie": "則落",
+        "source": "nk2028",
+        "id": "3574"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933a4905803602c705683edbf02",
+    "content_index": 13,
     "offset": 12,
     "char": "后",
     "context": "欲许便作后来薪",
@@ -99006,6 +100751,32 @@
         "fanqie": "徒紅",
         "source": "nk2028",
         "id": "2"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933a4905803602c705683edbf02",
+    "content_index": 14,
+    "offset": 13,
+    "char": "比",
+    "context": "可怜颜色无比方",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "平",
+      "上",
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "비교·비유·견줌의 比. 廣韻 卑履切 校也 및 康熙字典의 類也/方也/比方 풀이로 복원. 나란함·가까움·연속의 다른 성조와 구별.",
+    "supporting_entries": [
+      {
+        "head": "比",
+        "tone": "上",
+        "fanqie": "卑履",
+        "source": "nk2028",
+        "id": "1258"
       }
     ]
   },
@@ -100110,6 +101881,30 @@
   },
   {
     "poem_id": "7b587933a490580374dec5adf25ff798",
+    "content_index": 4,
+    "offset": 1,
+    "char": "作",
+    "context": "羞作秋胡妇",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "행함·됨·일어남·꽃/열매를 냄의 作. 廣韻 則落切 爲也/起也/行也/生也로 문맥 판독. 작곡·제조처럼 造也의 거성 후보와 직접 겹치는 용례는 별도 보류.",
+    "supporting_entries": [
+      {
+        "head": "作",
+        "tone": "入",
+        "fanqie": "則落",
+        "source": "nk2028",
+        "id": "3574"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933a490580374dec5adf25ff798",
     "content_index": 6,
     "offset": 2,
     "char": "少",
@@ -100249,6 +102044,30 @@
         "fanqie": "他魯",
         "source": "nk2028",
         "id": "1375"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933a4905803d5a3293eca3303ca",
+    "content_index": 1,
+    "offset": 4,
+    "char": "出",
+    "context": "的的连星出",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -101246,6 +103065,30 @@
   {
     "poem_id": "7b587933ad85ae8260118ebd97262d12",
     "content_index": 3,
+    "offset": 4,
+    "char": "苦",
+    "context": "不怨飞蓬苦",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933ad85ae8260118ebd97262d12",
+    "content_index": 3,
     "offset": 7,
     "char": "伤",
     "context": "徒伤蕙草残",
@@ -101686,6 +103529,44 @@
   },
   {
     "poem_id": "7b587933ad85ae8260118ebd97262d12",
+    "content_index": 11,
+    "offset": 8,
+    "char": "从",
+    "context": "招携从所务",
+    "tone": "平",
+    "pingze": "平",
+    "possible_tones": [
+      "平",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "성정·뜻·일을 따르거나 어느 선택을 좇을지의 從. 廣韻 疾容切 相聽也/就也와 康熙字典 從諫 풀이로 판독; 실제 이동하며 수행하는 隨行의 평·거 중복 문맥은 보류.",
+    "supporting_entries": [
+      {
+        "head": "从",
+        "tone": "平",
+        "fanqie": "疾容",
+        "source": "nk2028",
+        "id": "57"
+      },
+      {
+        "head": "從",
+        "tone": "平",
+        "fanqie": "疾容",
+        "source": "nk2028",
+        "id": "57"
+      },
+      {
+        "head": "從",
+        "tone": "平",
+        "fanqie": "七恭",
+        "source": "nk2028",
+        "id": "67"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933ad85ae8260118ebd97262d12",
     "content_index": 12,
     "offset": 3,
     "char": "不",
@@ -101911,6 +103792,30 @@
         "fanqie": "於願",
         "source": "nk2028",
         "id": "2596"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933ad85ae8260118ebd97262d12",
+    "content_index": 18,
+    "offset": 4,
+    "char": "苦",
+    "context": "不怨杼轴苦",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
       }
     ]
   },
@@ -103077,6 +104982,32 @@
         "fanqie": "陟弓",
         "source": "nk2028",
         "id": "3"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933afc3df74d2a75161d486a6de",
+    "content_index": 10,
+    "offset": 6,
+    "char": "比",
+    "context": "比艳似知非",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "平",
+      "上",
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "비교·비유·견줌의 比. 廣韻 卑履切 校也 및 康熙字典의 類也/方也/比方 풀이로 복원. 나란함·가까움·연속의 다른 성조와 구별.",
+    "supporting_entries": [
+      {
+        "head": "比",
+        "tone": "上",
+        "fanqie": "卑履",
+        "source": "nk2028",
+        "id": "1258"
       }
     ]
   },
@@ -104483,6 +106414,30 @@
   {
     "poem_id": "7b587933c853c0d765b9e935b9e105d6",
     "content_index": 0,
+    "offset": 8,
+    "char": "出",
+    "context": "汗马出长城",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933c853c0d765b9e935b9e105d6",
+    "content_index": 0,
     "offset": 9,
     "char": "长",
     "context": "汗马出长城",
@@ -105187,6 +107142,44 @@
         "fanqie": "七也",
         "source": "nk2028",
         "id": "1776"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933caff75307617e4d31c84eb45",
+    "content_index": 1,
+    "offset": 6,
+    "char": "从",
+    "context": "从横去不归",
+    "tone": "平",
+    "pingze": "平",
+    "possible_tones": [
+      "平",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "從橫은 縱橫의 종횡으로 낙엽의 흩어짐을 묘사. 康熙字典이 인용한 集韻 將容切 평성 東西曰衡南北曰從과 대조. 평성/거성 모두 있을 수 있는 통상 隨行과 구별.",
+    "supporting_entries": [
+      {
+        "head": "从",
+        "tone": "平",
+        "fanqie": "疾容",
+        "source": "nk2028",
+        "id": "57"
+      },
+      {
+        "head": "從",
+        "tone": "平",
+        "fanqie": "疾容",
+        "source": "nk2028",
+        "id": "57"
+      },
+      {
+        "head": "從",
+        "tone": "平",
+        "fanqie": "七恭",
+        "source": "nk2028",
+        "id": "67"
       }
     ]
   },
@@ -107100,6 +109093,30 @@
     ]
   },
   {
+    "poem_id": "7b587933d6059db77e083b54d1925b98",
+    "content_index": 1,
+    "offset": 10,
+    "char": "出",
+    "context": "云从窗里出",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
     "poem_id": "7b587933d6059db7dd5d355b73c6056c",
     "content_index": 0,
     "offset": 10,
@@ -107521,6 +109538,30 @@
         "fanqie": "苦紅",
         "source": "nk2028",
         "id": "21"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933d6059db77853238e4a3b99cd",
+    "content_index": 0,
+    "offset": 6,
+    "char": "出",
+    "context": "出自昆吾溪",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -109744,6 +111785,30 @@
   },
   {
     "poem_id": "7b587933d6059db7027fa49f8752e27a",
+    "content_index": 0,
+    "offset": 2,
+    "char": "出",
+    "context": "舞女出西秦",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933d6059db7027fa49f8752e27a",
     "content_index": 1,
     "offset": 0,
     "char": "且",
@@ -110005,6 +112070,37 @@
         "fanqie": "無販",
         "source": "nk2028",
         "id": "2599"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933d6059db7027fa49f8752e27a",
+    "content_index": 3,
+    "offset": 4,
+    "char": "脸",
+    "context": "蛾眉与曼脸",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "平",
+      "上"
+    ],
+    "method": "context_exact",
+    "reason": "臉/脸은 여인의 뺨·얼굴. 集韻 卷六 上聲下 四庫本 62a 檢小韻 居奄切 臉頰也를 보충하고 康熙字典 인용과 대조. 廣韻 七廉切 평성 및 力減切 상성의 음식 臉䑎과 구별.",
+    "supporting_entries": [
+      {
+        "head": "臉",
+        "tone": "上",
+        "fanqie": "力減",
+        "source": "nk2028",
+        "id": "2070"
+      },
+      {
+        "head": "臉",
+        "tone": "上",
+        "fanqie": "居奄",
+        "source": "集韻 Kanripo KR1j0057",
+        "id": null
       }
     ]
   },
@@ -111219,6 +113315,30 @@
   {
     "poem_id": "7b587933d6059db7d8c8d8b917f446fa",
     "content_index": 12,
+    "offset": 6,
+    "char": "出",
+    "context": "出采江南莲",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933d6059db7d8c8d8b917f446fa",
+    "content_index": 12,
     "offset": 10,
     "char": "莲",
     "context": "出采江南莲",
@@ -111628,6 +113748,30 @@
         "fanqie": "渠用",
         "source": "nk2028",
         "id": "2127"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933d6059db765321c0b01c7371c",
+    "content_index": 4,
+    "offset": 1,
+    "char": "作",
+    "context": "共作失职人",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "행함·됨·일어남·꽃/열매를 냄의 作. 廣韻 則落切 爲也/起也/行也/生也로 문맥 판독. 작곡·제조처럼 造也의 거성 후보와 직접 겹치는 용례는 별도 보류.",
+    "supporting_entries": [
+      {
+        "head": "作",
+        "tone": "入",
+        "fanqie": "則落",
+        "source": "nk2028",
+        "id": "3574"
       }
     ]
   },
@@ -114590,6 +116734,30 @@
   {
     "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
     "content_index": 24,
+    "offset": 1,
+    "char": "出",
+    "context": "月出照园中",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
+    "content_index": 24,
     "offset": 4,
     "char": "中",
     "context": "月出照园中",
@@ -116223,6 +118391,30 @@
   {
     "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
     "content_index": 57,
+    "offset": 2,
+    "char": "出",
+    "context": "侍宴出河曲",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
+    "content_index": 57,
     "offset": 7,
     "char": "盖",
     "context": "飞盖游邺城",
@@ -116450,6 +118642,30 @@
         "fanqie": "雲阮",
         "source": "nk2028",
         "id": "1516"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
+    "content_index": 63,
+    "offset": 2,
+    "char": "出",
+    "context": "远想出宏域",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -117531,6 +119747,30 @@
         "fanqie": "尼呂",
         "source": "nk2028",
         "id": "1335"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
+    "content_index": 94,
+    "offset": 2,
+    "char": "出",
+    "context": "驾言出远山",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -119071,6 +121311,30 @@
   {
     "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
     "content_index": 135,
+    "offset": 2,
+    "char": "出",
+    "context": "饮马出城濠",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
+    "content_index": 135,
     "offset": 8,
     "char": "沙",
     "context": "北望沙漠路",
@@ -119569,6 +121833,30 @@
         "fanqie": "分勿",
         "source": "nk2028",
         "id": "3341"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
+    "content_index": 148,
+    "offset": 10,
+    "char": "出",
+    "context": "秦兵不敢出",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -120875,6 +123163,44 @@
   },
   {
     "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
+    "content_index": 181,
+    "offset": 2,
+    "char": "从",
+    "context": "去矣从所欲",
+    "tone": "平",
+    "pingze": "平",
+    "possible_tones": [
+      "平",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "성정·뜻·일을 따르거나 어느 선택을 좇을지의 從. 廣韻 疾容切 相聽也/就也와 康熙字典 從諫 풀이로 판독; 실제 이동하며 수행하는 隨行의 평·거 중복 문맥은 보류.",
+    "supporting_entries": [
+      {
+        "head": "从",
+        "tone": "平",
+        "fanqie": "疾容",
+        "source": "nk2028",
+        "id": "57"
+      },
+      {
+        "head": "從",
+        "tone": "平",
+        "fanqie": "疾容",
+        "source": "nk2028",
+        "id": "57"
+      },
+      {
+        "head": "從",
+        "tone": "平",
+        "fanqie": "七恭",
+        "source": "nk2028",
+        "id": "67"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
     "content_index": 182,
     "offset": 2,
     "char": "操",
@@ -121099,6 +123425,30 @@
   {
     "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
     "content_index": 187,
+    "offset": 8,
+    "char": "出",
+    "context": "惠色出乔树",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
+    "content_index": 187,
     "offset": 10,
     "char": "树",
     "context": "惠色出乔树",
@@ -121298,6 +123648,30 @@
   },
   {
     "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
+    "content_index": 194,
+    "offset": 8,
+    "char": "出",
+    "context": "总辔出台省",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
     "content_index": 196,
     "offset": 8,
     "char": "冠",
@@ -121372,6 +123746,44 @@
         "fanqie": "無販",
         "source": "nk2028",
         "id": "2599"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
+    "content_index": 199,
+    "offset": 8,
+    "char": "从",
+    "context": "岁暮从所秉",
+    "tone": "平",
+    "pingze": "平",
+    "possible_tones": [
+      "平",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "성정·뜻·일을 따르거나 어느 선택을 좇을지의 從. 廣韻 疾容切 相聽也/就也와 康熙字典 從諫 풀이로 판독; 실제 이동하며 수행하는 隨行의 평·거 중복 문맥은 보류.",
+    "supporting_entries": [
+      {
+        "head": "从",
+        "tone": "平",
+        "fanqie": "疾容",
+        "source": "nk2028",
+        "id": "57"
+      },
+      {
+        "head": "從",
+        "tone": "平",
+        "fanqie": "疾容",
+        "source": "nk2028",
+        "id": "57"
+      },
+      {
+        "head": "從",
+        "tone": "平",
+        "fanqie": "七恭",
+        "source": "nk2028",
+        "id": "67"
       }
     ]
   },
@@ -122952,6 +125364,30 @@
   {
     "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
     "content_index": 240,
+    "offset": 1,
+    "char": "作",
+    "context": "方作云峰异",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "행함·됨·일어남·꽃/열매를 냄의 作. 廣韻 則落切 爲也/起也/行也/生也로 문맥 판독. 작곡·제조처럼 造也의 거성 후보와 직접 겹치는 용례는 별도 보류.",
+    "supporting_entries": [
+      {
+        "head": "作",
+        "tone": "入",
+        "fanqie": "則落",
+        "source": "nk2028",
+        "id": "3574"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
+    "content_index": 240,
     "offset": 4,
     "char": "异",
     "context": "方作云峰异",
@@ -124288,6 +126724,30 @@
         "fanqie": "胡口",
         "source": "nk2028",
         "id": "1955"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9b58a800bed115d8cf",
+    "content_index": 278,
+    "offset": 2,
+    "char": "出",
+    "context": "肃舲出郊际",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -125653,6 +128113,30 @@
   {
     "poem_id": "7b587933dafe0f9bc5297ea6aff3e62b",
     "content_index": 3,
+    "offset": 2,
+    "char": "出",
+    "context": "孤云出北山",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9bc5297ea6aff3e62b",
+    "content_index": 3,
     "offset": 6,
     "char": "宿",
     "context": "宿鸟惊东林",
@@ -126909,6 +129393,30 @@
   },
   {
     "poem_id": "7b587933dafe0f9bc5297ea6aff3e62b",
+    "content_index": 31,
+    "offset": 2,
+    "char": "出",
+    "context": "若木出海外",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9bc5297ea6aff3e62b",
     "content_index": 32,
     "offset": 2,
     "char": "共",
@@ -127190,6 +129698,30 @@
         "fanqie": "古黃",
         "source": "nk2028",
         "id": "846"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9bc5297ea6aff3e62b",
+    "content_index": 37,
+    "offset": 4,
+    "char": "出",
+    "context": "荣光河雒出",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -129275,6 +131807,30 @@
   {
     "poem_id": "7b587933dafe0f9bc5297ea6aff3e62b",
     "content_index": 87,
+    "offset": 7,
+    "char": "从",
+    "context": "宾从共矜骄",
+    "tone": "去",
+    "pingze": "仄",
+    "possible_tones": [
+      "平",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "賓從은 손님과 수행원이라는 명사. 康熙字典의 才用切 거성 侍從/僕從을 대조한 문맥 판독.",
+    "supporting_entries": [
+      {
+        "head": "從",
+        "tone": "去",
+        "fanqie": "疾用",
+        "source": "nk2028",
+        "id": "2139"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9bc5297ea6aff3e62b",
+    "content_index": 87,
     "offset": 8,
     "char": "共",
     "context": "宾从共矜骄",
@@ -130850,6 +133406,30 @@
   },
   {
     "poem_id": "7b587933dafe0f9ba172eb5622f58e05",
+    "content_index": 26,
+    "offset": 2,
+    "char": "出",
+    "context": "东南出兮是一山",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9ba172eb5622f58e05",
     "content_index": 27,
     "offset": 1,
     "char": "中",
@@ -131783,6 +134363,30 @@
         "fanqie": "胡雅",
         "source": "nk2028",
         "id": "1772"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9ba172eb5622f58e05",
+    "content_index": 45,
+    "offset": 7,
+    "char": "出",
+    "context": "月出兮铜峰",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -134628,6 +137232,30 @@
   },
   {
     "poem_id": "7b587933dafe0f9ba172eb56890c64f1",
+    "content_index": 26,
+    "offset": 2,
+    "char": "出",
+    "context": "东南出兮是一山",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9ba172eb56890c64f1",
     "content_index": 27,
     "offset": 1,
     "char": "中",
@@ -135561,6 +138189,30 @@
         "fanqie": "胡雅",
         "source": "nk2028",
         "id": "1772"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9ba172eb56890c64f1",
+    "content_index": 45,
+    "offset": 7,
+    "char": "出",
+    "context": "月出兮铜峰",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -138038,6 +140690,30 @@
   },
   {
     "poem_id": "7b587933dafe0f9b06b032b7b48a0aab",
+    "content_index": 19,
+    "offset": 2,
+    "char": "出",
+    "context": "驾言出游衍",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9b06b032b7b48a0aab",
     "content_index": 20,
     "offset": 0,
     "char": "复",
@@ -139098,6 +141774,30 @@
   {
     "poem_id": "7b587933dafe0f9b06b032b7b48a0aab",
     "content_index": 40,
+    "offset": 3,
+    "char": "苦",
+    "context": "方东有苦泪",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9b06b032b7b48a0aab",
+    "content_index": 40,
     "offset": 9,
     "char": "膏",
     "context": "承夜非膏兰",
@@ -139423,6 +142123,30 @@
         "fanqie": "郎計",
         "source": "nk2028",
         "id": "2380"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9b06b032b7b48a0aab",
+    "content_index": 49,
+    "offset": 7,
+    "char": "出",
+    "context": "乃出巫山湄",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -139767,6 +142491,30 @@
         "fanqie": "尼呂",
         "source": "nk2028",
         "id": "1335"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933dafe0f9b06b032b7b48a0aab",
+    "content_index": 57,
+    "offset": 6,
+    "char": "出",
+    "context": "出入泛灵舆",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -141042,6 +143790,30 @@
   },
   {
     "poem_id": "7b587933e51ecc735b0fd3ef3bf0ebbc",
+    "content_index": 7,
+    "offset": 0,
+    "char": "出",
+    "context": "出入东城里",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933e51ecc735b0fd3ef3bf0ebbc",
     "content_index": 8,
     "offset": 7,
     "char": "盖",
@@ -141634,6 +144406,30 @@
         "fanqie": "胡田",
         "source": "nk2028",
         "id": "581"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933e51ecc73279d38b6224462b7",
+    "content_index": 1,
+    "offset": 4,
+    "char": "出",
+    "context": "佳人淇洧出",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -143455,6 +146251,30 @@
   },
   {
     "poem_id": "7b587933e51ecc73b8c99ff431444da9",
+    "content_index": 0,
+    "offset": 4,
+    "char": "出",
+    "context": "风光迟舞出青蘋",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933e51ecc73b8c99ff431444da9",
     "content_index": 2,
     "offset": 13,
     "char": "燕",
@@ -144287,6 +147107,32 @@
   },
   {
     "poem_id": "7b587933e51ecc73499ea93e7300d866",
+    "content_index": 5,
+    "offset": 12,
+    "char": "比",
+    "context": "莫持赊用比悬河",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "平",
+      "上",
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "비교·비유·견줌의 比. 廣韻 卑履切 校也 및 康熙字典의 類也/方也/比方 풀이로 복원. 나란함·가까움·연속의 다른 성조와 구별.",
+    "supporting_entries": [
+      {
+        "head": "比",
+        "tone": "上",
+        "fanqie": "卑履",
+        "source": "nk2028",
+        "id": "1258"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933e51ecc73499ea93e7300d866",
     "content_index": 7,
     "offset": 1,
     "char": "树",
@@ -144898,6 +147744,30 @@
         "fanqie": "于僞",
         "source": "nk2028",
         "id": "2157"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f1276b0fcd1aa89800697a6d",
+    "content_index": 4,
+    "offset": 4,
+    "char": "苦",
+    "context": "谁为道辛苦",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
       }
     ]
   },
@@ -147583,6 +150453,37 @@
   {
     "poem_id": "7b587933f90b57c93a3c506735a086a0",
     "content_index": 3,
+    "offset": 4,
+    "char": "脸",
+    "context": "密态随流脸",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "平",
+      "上"
+    ],
+    "method": "context_exact",
+    "reason": "臉/脸은 여인의 뺨·얼굴. 集韻 卷六 上聲下 四庫本 62a 檢小韻 居奄切 臉頰也를 보충하고 康熙字典 인용과 대조. 廣韻 七廉切 평성 및 力減切 상성의 음식 臉䑎과 구별.",
+    "supporting_entries": [
+      {
+        "head": "臉",
+        "tone": "上",
+        "fanqie": "力減",
+        "source": "nk2028",
+        "id": "2070"
+      },
+      {
+        "head": "臉",
+        "tone": "上",
+        "fanqie": "居奄",
+        "source": "集韻 Kanripo KR1j0057",
+        "id": null
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f90b57c93a3c506735a086a0",
+    "content_index": 3,
     "offset": 6,
     "char": "娇",
     "context": "娇歌逐软声",
@@ -148944,6 +151845,32 @@
   },
   {
     "poem_id": "7b587933f90b57c904b926f8ade7ad65",
+    "content_index": 3,
+    "offset": 8,
+    "char": "比",
+    "context": "姝貌比朝霞",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "平",
+      "上",
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "비교·비유·견줌의 比. 廣韻 卑履切 校也 및 康熙字典의 類也/方也/比方 풀이로 복원. 나란함·가까움·연속의 다른 성조와 구별.",
+    "supporting_entries": [
+      {
+        "head": "比",
+        "tone": "上",
+        "fanqie": "卑履",
+        "source": "nk2028",
+        "id": "1258"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f90b57c904b926f8ade7ad65",
     "content_index": 4,
     "offset": 9,
     "char": "种",
@@ -148988,6 +151915,30 @@
         "fanqie": "去盈",
         "source": "nk2028",
         "id": "920"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f90b57c904b926f8ade7ad65",
+    "content_index": 5,
+    "offset": 4,
+    "char": "出",
+    "context": "揽袴轻红出",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -149533,6 +152484,30 @@
   },
   {
     "poem_id": "7b587933f90b57c942fe621f824a5b9e",
+    "content_index": 2,
+    "offset": 2,
+    "char": "出",
+    "context": "前年出右地",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f90b57c942fe621f824a5b9e",
     "content_index": 3,
     "offset": 7,
     "char": "沙",
@@ -149861,6 +152836,30 @@
         "fanqie": "於胃",
         "source": "nk2028",
         "id": "2282"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f90b57c942fe621f824a5b9e",
+    "content_index": 9,
+    "offset": 13,
+    "char": "出",
+    "context": "嫖姚校尉初出征",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -150684,6 +153683,30 @@
         "fanqie": "息良",
         "source": "nk2028",
         "id": "819"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f90b57c97ae95499f56730f9",
+    "content_index": 4,
+    "offset": 0,
+    "char": "出",
+    "context": "出塞岂成歌",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -152444,6 +155467,30 @@
   {
     "poem_id": "7b587933f95faa16d8a40b4e91e48a17",
     "content_index": 3,
+    "offset": 1,
+    "char": "出",
+    "context": "朝出与亲辞",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f95faa16d8a40b4e91e48a17",
+    "content_index": 3,
     "offset": 2,
     "char": "与",
     "context": "朝出与亲辞",
@@ -152827,6 +155874,30 @@
   {
     "poem_id": "7b587933f95faa16447479832a30ef0e",
     "content_index": 1,
+    "offset": 11,
+    "char": "作",
+    "context": "念其霜中能作花",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "행함·됨·일어남·꽃/열매를 냄의 作. 廣韻 則落切 爲也/起也/行也/生也로 문맥 판독. 작곡·제조처럼 造也의 거성 후보와 직접 겹치는 용례는 별도 보류.",
+    "supporting_entries": [
+      {
+        "head": "作",
+        "tone": "入",
+        "fanqie": "則落",
+        "source": "nk2028",
+        "id": "3574"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f95faa16447479832a30ef0e",
+    "content_index": 1,
     "offset": 15,
     "char": "中",
     "context": "露中能作实",
@@ -152877,6 +155948,30 @@
         "fanqie": "奴登",
         "source": "nk2028",
         "id": "980"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f95faa16447479832a30ef0e",
+    "content_index": 1,
+    "offset": 17,
+    "char": "作",
+    "context": "露中能作实",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "행함·됨·일어남·꽃/열매를 냄의 作. 廣韻 則落切 爲也/起也/行也/生也로 문맥 판독. 작곡·제조처럼 造也의 거성 후보와 직접 겹치는 용례는 별도 보류.",
+    "supporting_entries": [
+      {
+        "head": "作",
+        "tone": "入",
+        "fanqie": "則落",
+        "source": "nk2028",
+        "id": "3574"
       }
     ]
   },
@@ -153853,6 +156948,30 @@
   },
   {
     "poem_id": "7b587933f95faa16fe708bfd2d56561b",
+    "content_index": 0,
+    "offset": 1,
+    "char": "出",
+    "context": "始出西南楼",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f95faa16fe708bfd2d56561b",
     "content_index": 1,
     "offset": 1,
     "char": "映",
@@ -154190,6 +157309,30 @@
         "fanqie": "於豔",
         "source": "nk2028",
         "id": "3131"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f95faa16fe708bfd2d56561b",
+    "content_index": 6,
+    "offset": 3,
+    "char": "苦",
+    "context": "客游厌苦辛",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
       }
     ]
   },
@@ -154678,6 +157821,30 @@
         "fanqie": "渠用",
         "source": "nk2028",
         "id": "2127"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f95faa1666ac11515847a100",
+    "content_index": 0,
+    "offset": 2,
+    "char": "出",
+    "context": "朗月出东山",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -156914,6 +160081,44 @@
         "fanqie": "都郎",
         "source": "nk2028",
         "id": "839"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f95faa16d06379742b36830c",
+    "content_index": 14,
+    "offset": 2,
+    "char": "从",
+    "context": "晚节从世务",
+    "tone": "平",
+    "pingze": "平",
+    "possible_tones": [
+      "平",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "성정·뜻·일을 따르거나 어느 선택을 좇을지의 從. 廣韻 疾容切 相聽也/就也와 康熙字典 從諫 풀이로 판독; 실제 이동하며 수행하는 隨行의 평·거 중복 문맥은 보류.",
+    "supporting_entries": [
+      {
+        "head": "从",
+        "tone": "平",
+        "fanqie": "疾容",
+        "source": "nk2028",
+        "id": "57"
+      },
+      {
+        "head": "從",
+        "tone": "平",
+        "fanqie": "疾容",
+        "source": "nk2028",
+        "id": "57"
+      },
+      {
+        "head": "從",
+        "tone": "平",
+        "fanqie": "七恭",
+        "source": "nk2028",
+        "id": "67"
       }
     ]
   },
@@ -159594,6 +162799,30 @@
   {
     "poem_id": "7b587933f95faa1621358e3e087eb5f7",
     "content_index": 4,
+    "offset": 1,
+    "char": "作",
+    "context": "宁作野中之双凫",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "행함·됨·일어남·꽃/열매를 냄의 作. 廣韻 則落切 爲也/起也/行也/生也로 문맥 판독. 작곡·제조처럼 造也의 거성 후보와 직접 겹치는 용례는 별도 보류.",
+    "supporting_entries": [
+      {
+        "head": "作",
+        "tone": "入",
+        "fanqie": "則落",
+        "source": "nk2028",
+        "id": "3574"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f95faa1621358e3e087eb5f7",
+    "content_index": 4,
     "offset": 3,
     "char": "中",
     "context": "宁作野中之双凫",
@@ -159864,6 +163093,30 @@
   },
   {
     "poem_id": "7b587933f95faa167c3e367c04b2d450",
+    "content_index": 1,
+    "offset": 17,
+    "char": "出",
+    "context": "明朝复更出",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f95faa167c3e367c04b2d450",
     "content_index": 2,
     "offset": 2,
     "char": "何",
@@ -159955,6 +163208,30 @@
         "fanqie": "所庚",
         "source": "nk2028",
         "id": "884"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f95faa167c3e367c04b2d450",
+    "content_index": 3,
+    "offset": 2,
+    "char": "苦",
+    "context": "人生苦多欢乐少",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
       }
     ]
   },
@@ -160192,6 +163469,30 @@
   },
   {
     "poem_id": "7b587933f95faa16e09bbb17ac466bf2",
+    "content_index": 0,
+    "offset": 8,
+    "char": "出",
+    "context": "跨马出北门",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f95faa16e09bbb17ac466bf2",
     "content_index": 1,
     "offset": 8,
     "char": "松",
@@ -160256,6 +163557,30 @@
         "fanqie": "陟弓",
         "source": "nk2028",
         "id": "3"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f95faa16e09bbb17ac466bf2",
+    "content_index": 3,
+    "offset": 3,
+    "char": "苦",
+    "context": "声音哀苦鸣不息",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
       }
     ]
   },
@@ -160584,6 +163909,30 @@
   },
   {
     "poem_id": "7b587933f95faa16f0ea32c92f0c747a",
+    "content_index": 0,
+    "offset": 9,
+    "char": "作",
+    "context": "一株先作花",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "행함·됨·일어남·꽃/열매를 냄의 作. 廣韻 則落切 爲也/起也/行也/生也로 문맥 판독. 작곡·제조처럼 造也의 거성 후보와 직접 겹치는 용례는 별도 보류.",
+    "supporting_entries": [
+      {
+        "head": "作",
+        "tone": "入",
+        "fanqie": "則落",
+        "source": "nk2028",
+        "id": "3574"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f95faa16f0ea32c92f0c747a",
     "content_index": 1,
     "offset": 5,
     "char": "三",
@@ -160745,6 +164094,30 @@
         "fanqie": "於希",
         "source": "nk2028",
         "id": "221"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f95faa16f0ea32c92f0c747a",
+    "content_index": 3,
+    "offset": 4,
+    "char": "出",
+    "context": "初送我君出户时",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -163095,6 +166468,30 @@
   {
     "poem_id": "7b587933f95faa16e29043e7b4db8c90",
     "content_index": 6,
+    "offset": 4,
+    "char": "苦",
+    "context": "自生留世苦不幸",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f95faa16e29043e7b4db8c90",
+    "content_index": 6,
     "offset": 5,
     "char": "不",
     "context": "自生留世苦不幸",
@@ -164689,6 +168086,30 @@
   },
   {
     "poem_id": "7b587933f95faa163b8544cee15d1f0f",
+    "content_index": 0,
+    "offset": 14,
+    "char": "作",
+    "context": "百草含青俱作花",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "행함·됨·일어남·꽃/열매를 냄의 作. 廣韻 則落切 爲也/起也/行也/生也로 문맥 판독. 작곡·제조처럼 造也의 거성 후보와 직접 겹치는 용례는 별도 보류.",
+    "supporting_entries": [
+      {
+        "head": "作",
+        "tone": "入",
+        "fanqie": "則落",
+        "source": "nk2028",
+        "id": "3574"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f95faa163b8544cee15d1f0f",
     "content_index": 1,
     "offset": 1,
     "char": "风",
@@ -165162,6 +168583,30 @@
     ]
   },
   {
+    "poem_id": "7b587933f95faa162dfd1d49cd4d37c9",
+    "content_index": 5,
+    "offset": 11,
+    "char": "苦",
+    "context": "何劳辛苦事百年",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
+      }
+    ]
+  },
+  {
     "poem_id": "7b587933f95faa16597fc6c2a0d2452e",
     "content_index": 0,
     "offset": 0,
@@ -165231,6 +168676,30 @@
         "fanqie": "居隱",
         "source": "nk2028",
         "id": "1508"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f95faa16597fc6c2a0d2452e",
+    "content_index": 0,
+    "offset": 7,
+    "char": "苦",
+    "context": "习苦不言非",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
       }
     ]
   },
@@ -166025,6 +169494,30 @@
         "fanqie": "方戎",
         "source": "nk2028",
         "id": "17"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f95faa16657183dab70c5984",
+    "content_index": 11,
+    "offset": 3,
+    "char": "出",
+    "context": "褭褭风出浦",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -171039,6 +174532,30 @@
   {
     "poem_id": "7b587933f95faa16761815d7a0d2452e",
     "content_index": 0,
+    "offset": 7,
+    "char": "苦",
+    "context": "习苦不言非",
+    "tone": "上",
+    "pingze": "仄",
+    "possible_tones": [
+      "上",
+      "去"
+    ],
+    "method": "context_exact",
+    "reason": "괴로움·고통·근심·수고·매서움의 苦. 廣韻 康杜切 勤也/患也 및 康熙字典의 勤/患/悵을 대조한 문맥 복원. 苦故切 困也의 대표 용례 苦車/苦船과 구별하며 이독 후보 자체는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "苦",
+        "tone": "上",
+        "fanqie": "康杜",
+        "source": "nk2028",
+        "id": "1387"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f95faa16761815d7a0d2452e",
+    "content_index": 0,
     "offset": 8,
     "char": "不",
     "context": "习苦不言非",
@@ -174531,6 +178048,30 @@
   {
     "poem_id": "7b587933f95faa160e0afe59a7fcd2ed",
     "content_index": 16,
+    "offset": 1,
+    "char": "出",
+    "context": "北出湖边戏",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933f95faa160e0afe59a7fcd2ed",
+    "content_index": 16,
     "offset": 4,
     "char": "戏",
     "context": "北出湖边戏",
@@ -176779,6 +180320,30 @@
         "fanqie": "色句",
         "source": "nk2028",
         "id": "2333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933a644b67c2f683caf45f2b2e1",
+    "content_index": 5,
+    "offset": 4,
+    "char": "出",
+    "context": "昔日公子出南皮",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -180478,6 +184043,30 @@
         "fanqie": "烏前",
         "source": "nk2028",
         "id": "582"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933a644b67c951f798686fcb3c8",
+    "content_index": 55,
+    "offset": 8,
+    "char": "出",
+    "context": "弭节出阳关",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },
@@ -184970,6 +188559,30 @@
   {
     "poem_id": "7b587933a644b67c951f798686fcb3c8",
     "content_index": 163,
+    "offset": 0,
+    "char": "出",
+    "context": "出门车轴折",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933a644b67c951f798686fcb3c8",
+    "content_index": 163,
     "offset": 4,
     "char": "折",
     "context": "出门车轴折",
@@ -186012,6 +189625,30 @@
         "fanqie": "七恭",
         "source": "nk2028",
         "id": "67"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933a644b67cc6201ec892eedb01",
+    "content_index": 2,
+    "offset": 13,
+    "char": "作",
+    "context": "不及从来莫作双",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "행함·됨·일어남·꽃/열매를 냄의 作. 廣韻 則落切 爲也/起也/行也/生也로 문맥 판독. 작곡·제조처럼 造也의 거성 후보와 직접 겹치는 용례는 별도 보류.",
+    "supporting_entries": [
+      {
+        "head": "作",
+        "tone": "入",
+        "fanqie": "則落",
+        "source": "nk2028",
+        "id": "3574"
       }
     ]
   },
@@ -189458,6 +193095,30 @@
         "fanqie": "于〈子〉亮",
         "source": "nk2028",
         "id": "2911"
+      }
+    ]
+  },
+  {
+    "poem_id": "7b587933a644b67cb8c99ff47aaabaf6",
+    "content_index": 7,
+    "offset": 4,
+    "char": "出",
+    "context": "自从将军出细柳",
+    "tone": "入",
+    "pingze": "仄",
+    "possible_tones": [
+      "去",
+      "入"
+    ],
+    "method": "context_exact",
+    "reason": "주어인 사람·새·구름·달·바람 등이 나가거나 솟아남, 혹은 출발·출신을 나타내는 자동사 문맥. 廣韻 赤律切 進/見 및 康熙字典이 인용한 正韻의 自出 입성 독법으로 복원. 正韻은 互用도 명시하므로 개별 남조 시구의 독음 주기 확보가 아니라 문맥상 선호 독법이며 거성 후보는 보존한다.",
+    "supporting_entries": [
+      {
+        "head": "出",
+        "tone": "入",
+        "fanqie": "赤律",
+        "source": "nk2028",
+        "id": "3333"
       }
     ]
   },

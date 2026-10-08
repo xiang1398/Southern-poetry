@@ -222,5 +222,44 @@
     ],
     "jiyun_mud_reading": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_005.txt",
     "note": "문맥 판독과 동의 이독 보류를 함께 기록; 泥泥 상성의 빠진 후보를 集韻으로 보충."
+  },
+  "batch06_review": {
+    "review_id": "2026-10-08-batch06-2297",
+    "report": "data/phonology/batch06_review.json",
+    "cross_checks": [
+      {
+        "character": "从",
+        "url": "https://www.zdic.net/hans/從"
+      },
+      {
+        "character": "作",
+        "url": "https://www.zdic.net/hans/作"
+      },
+      {
+        "character": "出",
+        "url": "https://www.zdic.net/hans/出"
+      },
+      {
+        "character": "只",
+        "url": "https://www.zdic.net/hant/隻"
+      },
+      {
+        "character": "比",
+        "url": "https://www.zdic.net/hant/比"
+      },
+      {
+        "character": "脸",
+        "url": "https://www.zdic.net/hant/臉"
+      },
+      {
+        "character": "苦",
+        "url": "https://www.zdic.net/hans/苦"
+      },
+      {
+        "character": "零",
+        "url": "https://www.zdic.net/hant/零"
+      }
+    ],
+    "note": "臉의 頰也 상성 후보를 集韻 卷六 四庫本62a에서 보충. 出 自出의 입성은 正韻의 互用 단서를 함께 기록한 문맥 복원. 已·倚·任 등 의미 중복은 보류."
   }
 }

@@ -308,5 +308,20 @@
         "note": "康熙字典 인용 廣韻 奴禮切 泥泥露濃貌와 대조. 집운 상성 항목을 후보에 보충."
       }
     ]
+  },
+  "脸": {
+    "entries": [
+      {
+        "head": "臉",
+        "tone": "上",
+        "fanqie": "居奄",
+        "gloss": "頰也",
+        "source": "集韻 Kanripo KR1j0057",
+        "volume": 6,
+        "url": "https://github.com/kanripo/KR1j0057/blob/master/KR1j0057_006.txt",
+        "verified_excerpt": "○檢(居奄切說文書署也一曰俗謂燕尾今世書簽下或作岐文)(九)撿儉(束也或作儉)臉(頰也)瞼(眼臉也)",
+        "page": "KR1j0057_WYG_006-62a"
+      }
+    ]
   }
 }
