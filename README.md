@@ -22,3 +22,9 @@ Source: [snowtraces/poetry-source](https://github.com/snowtraces/poetry-source),
 ## Research aim
 
 Test whether 上、去、入 behave as a common non-平 metrical class in Southern Dynasties verse, distinguishing four-tone dissimilation from 平/非平 opposition and controlling for token-level tone frequencies.
+
+## Updated cross-regional inclusion policy (2026-10-08)
+
+Include poets who began composing in Southern Dynasties literary circles even when later active in Northern courts. 庾信, 蕭詧, 王褒 are now included. Southern training does NOT imply that every poem was composed in the South. Cross-regional records have `southern_training: true`, `cross_regional_author: true`, and `composition_period: undetermined`. Date individual poems before comparing Southern-period vs Northern-period tonal patterns.
+
+Updated counts: 412 candidates, 31 review, 38 excluded; 52 candidate authors. Earlier counts above are historical initial-screening figures.
