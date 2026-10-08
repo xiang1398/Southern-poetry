@@ -5,6 +5,7 @@ Run from any directory. No metrical template is used to choose a reading.
 Coordinates are zero-based Unicode codepoint offsets in the ORIGINAL paragraph.
 """
 import hashlib
+import argparse
 import json
 import re
 from collections import Counter
@@ -107,7 +108,40 @@ def apply_rhyme(corpus, lex, pending, decisions, counts):
                 if pz(row['possible_tones'])=='□':counts['pingze_unresolved']-=1
     return [r for r in pending if (r['poem_id'],r['content_index'],r['offset']) not in accepted]
 
+def apply_general_defaults(corpus, lex, supplements, pending, decisions, counts):
+    """User-authorized provisional readings; never used as rhyme anchors."""
+    policy = load(PHON/'general_readings.json')
+    poems = {p['id']:p for p in corpus}
+    remaining = []
+    for initial in pending:
+        profile = policy['profiles'].get(initial['char'])
+        if not profile:
+            remaining.append(initial)
+            continue
+        override = next((r for r in policy['overrides'] if r['char']==initial['char'] and r['context']==initial['context']), None)
+        selected = {**profile, **(override or {})}
+        entries = lex.get(initial['char'],{}).get('entries',[]) + supplements.get(initial['char'],{}).get('entries',[])
+        support = [e for e in entries if e['tone']==selected['tone'] and e['fanqie']==selected['fanqie']]
+        assert support, (initial,selected)
+        row = {**initial, 'tone':selected['tone'], 'pingze':'平' if selected['tone']=='平' else '仄',
+               'method':'general_default', 'status':'provisional_general', 'reason':selected['reason'],
+               'previous_tone':initial['tone'], 'previous_pingze':initial['pingze'],
+               'supporting_entries':[{'head':e.get('head',initial['char']),'tone':e['tone'],'fanqie':e['fanqie'],'source':e['source'],'id':e.get('id')} for e in support]}
+        annotation = poems[row['poem_id']]['tone_annotations'][row['content_index']]
+        for field,value in [('four_tones',row['tone']),('pingze',row['pingze'])]:
+            values=list(annotation[field]);values[row['offset']]=value;annotation[field]=''.join(values)
+        annotation.setdefault('general_reading_offsets',[]).append(row['offset'])
+        decisions.append(row)
+        counts['general_default']+=1
+        counts['unresolved']-=1
+        counts['four_tone_unresolved']-=1
+        counts['pingze_unresolved']-=initial['pingze']=='□'
+    return remaining
+
 def main():
+    parser=argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--strict',action='store_true',help='Skip provisional general-reading defaults')
+    args=parser.parse_args()
     corpus = load(DATA/'southern_candidates.json')
     lex = load(PHON/'guangyun_lexicon.json')
     rules = load(PHON/'reading_rules.json')
@@ -116,7 +150,7 @@ def main():
     original = [{k:v for k,v in poem.items() if k not in ('tone_annotations','tone_annotation_version')} for poem in corpus]
     source_hash = hashlib.sha256(json.dumps(original,ensure_ascii=False,sort_keys=True).encode()).hexdigest()
     for poem in corpus:
-        poem['tone_annotation_version'] = '2026-10-08-reviewed-v3'
+        poem['tone_annotation_version'] = '2026-10-08-reviewed-v4-strict' if args.strict else '2026-10-08-reviewed-v4-general'
         annotations = []
         for paragraph_index, text in enumerate(poem['content']):
             excluded, units = spans(text)
@@ -202,6 +236,11 @@ def main():
         review['outcomes']=dict(outcomes)
         assert len(token_reviews)==review['initial_pending_tokens']
         save(followup_path,review)
+    counts['evidence_based_read']=counts['verse_characters']-counts['four_tone_unresolved']
+    counts['before_general_unresolved']=counts['four_tone_unresolved']
+    if not args.strict:
+        pending=apply_general_defaults(corpus,lex,supplements,pending,decisions,counts)
+    counts['filled_four_tones']=counts['verse_characters']-counts['four_tone_unresolved']
     output_text=[]
     for poem in corpus:
         output_text.append(f"# {poem['authorName']} · {poem['title']} [{poem['id']}]\n")
@@ -219,7 +258,7 @@ def main():
                 if label['start'] >= previous_end:
                     output_text += [label['text'],'']
     counts['records'] = len(corpus)
-    summary = {'original_fields_sha256':source_hash,'counts':dict(counts),'unresolved_by_character':dict(Counter(r['char'] for r in pending).most_common()),'note':'廣韻系 분류를 기준으로 한 성조 복원. 남조 당시의 개별 실현음 자체를 확정하는 자료가 아니며, context_*는 문맥에 따른 판독이다. 사성 미확정과 평측 미확정은 구별한다.'}
+    summary = {'original_fields_sha256':source_hash,'reading_policy':'strict' if args.strict else 'general_default','counts':dict(counts),'unresolved_by_character':dict(Counter(r['char'] for r in pending).most_common()),'note':'廣韻系 분류를 기준으로 한 성조 복원. general_default는 사용자 요청에 따른 일반 독음 잠정값이며 문맥 확정과 구분한다. 평측 틀로 독음을 고르지 않으며 잠정값은 운각 판독의 근거로 쓰지 않는다. 남조 당시 개별 실현음 자체를 확정하는 자료가 아니다. 역사적 검토 JSON의 결과는 일반 독음 적용 전 단계이다.'}
     save(DATA/'southern_candidates.json',corpus)
     (DATA/'southern_candidates_tones.txt').write_text('\n'.join(output_text)+'\n',encoding='utf-8')
     save(PHON/'decisions.json',decisions)

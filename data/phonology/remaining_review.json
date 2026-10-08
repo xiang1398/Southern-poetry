@@ -70180,11 +70180,11 @@
       "char": "疋",
       "context": "汉马三万疋",
       "initial_pingze": "□",
-      "four_tones": "□",
-      "final_pingze": "□",
-      "status": "held",
-      "method": "unresolved",
-      "reason": "character_reviews의 해당 글자 hold_reason 참조"
+      "four_tones": "入",
+      "final_pingze": "仄",
+      "status": "resolved",
+      "method": "context_exact",
+      "reason": "疋는 匹의 속자로도 쓰이며 이 구에서는 말의 수량사이다. 廣韻 匹: 譬吉切·質韻入聲, 釋義에 俗作疋 명시. 교육부 이체자사전 [A00425-012] 참조."
     },
     {
       "poem_id": "7b587933e51ecc735b0fd3ef3bf0ebbc",
@@ -81056,7 +81056,7 @@
     }
   ],
   "outcomes": {
-    "resolved": 1681,
-    "held": 2062
+    "resolved": 1682,
+    "held": 2061
   }
 }

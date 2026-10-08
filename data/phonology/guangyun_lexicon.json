@@ -70674,7 +70674,8 @@
   },
   "疋": {
     "forms": [
-      "疋"
+      "疋",
+      "匹"
     ],
     "entries": [
       {
@@ -70709,6 +70710,18 @@
         "source": "nk2028",
         "printed_head": "疋",
         "head": "疋"
+      },
+      {
+        "tone": "入",
+        "fanqie": "譬吉",
+        "gloss": "偶也配也合也二也說文云四丈也从八匸八揲一四俗作疋譬吉切四",
+        "rime": "質",
+        "position": "滂三A真入",
+        "id": "3292",
+        "source": "nk2028",
+        "printed_head": "匹",
+        "head": "匹",
+        "variant_evidence": "https://dict.variants.moe.edu.tw/dictView.jsp?ID=4624&q=1"
       }
     ]
   },

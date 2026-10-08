@@ -81972,17 +81972,17 @@
       "offset": 4,
       "char": "疋",
       "context": "汉马三万疋",
-      "tone": "□",
-      "pingze": "□",
+      "tone": "入",
+      "pingze": "仄",
       "possible_tones": [
         "平",
         "上"
       ],
-      "method": "unresolved",
-      "reason": "해당 시구의 자형·문맥과 사전 후보를 대조했으나, 확보한 석의/이독 자료만으로 하나의 성조를 선택하기 부족함. 후보: 平 所葅（菹）切 足也古爲雅字 / 上 疎舉切 記也又山於切 / 上 五下切 正也待也說文所葅切足也古文以爲詩大雅字又山呂切",
+      "method": "context_exact",
+      "reason": "疋는 匹의 속자로도 쓰이며 이 구에서는 말의 수량사이다. 廣韻 匹: 譬吉切·質韻入聲, 釋義에 俗作疋 명시. 교육부 이체자사전 [A00425-012] 참조.",
       "initial_tone": "□",
       "initial_pingze": "□",
-      "status": "held"
+      "status": "resolved"
     },
     {
       "poem_id": "7b587933e51ecc735b0fd3ef3bf0ebbc",
@@ -93074,7 +93074,7 @@
     }
   ],
   "outcomes": {
-    "resolved": 686,
-    "held": 2062
+    "resolved": 687,
+    "held": 2061
   }
 }
